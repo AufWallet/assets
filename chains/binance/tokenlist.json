@@ -12,7 +12,7 @@
         "defi",
         "binance"
     ],
-    "tokens": [
+    "data": [
         {
             "name": "PancakeSwap Token",
             "symbol": "CAKE",

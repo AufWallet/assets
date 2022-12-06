@@ -12,7 +12,7 @@
         "defi",
         "ethereum"
     ],
-    "tokens": [
+    "data": [
         {
             "name": "1inch",
             "symbol": "1INCH",
