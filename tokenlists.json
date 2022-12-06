@@ -1,0 +1,45 @@
+{
+    "name": "AufWallet tokenlists",
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "timestamp": "2022-10-11T01:24:14.964Z",
+    "lists": [
+      {
+        "name": "AufWallet tokens for Ethereum",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/ethereum/tokenlist.json",
+        "chainId": 1,
+        "isDefault": true
+      },
+      {
+        "name": "CoinGecko",
+        "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+        "url": "https://tokens.coingecko.com/uniswap/all.json",
+        "chainId": 1
+      },
+      {
+        "name": "AufWallet tokens for Binance",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/binance/tokenlist.json",
+        "chainId": 56,
+        "isDefault": true
+      },
+      {
+        "name": "CoinMarketCap",
+        "logoURI": "https://ipfs.io/ipfs/QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+        "url": "https://tokens.pancakeswap.finance/cmc.json",
+        "chainId": 56
+      },
+      {
+        "name": "AufWallet tokens for Polygon",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/polygon/tokenlist.json",
+        "chainId": 137,
+        "isDefault": true
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
