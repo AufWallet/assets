@@ -5,12 +5,15 @@
     "data": [
         "DeFi",
         "Dex",
-        "Lending",
         "NFT",
         "Derivative",
         "Play2Earn",
         "GameFi",
-        "Tools"
+        "SocialFi",
+        "Marketplace",
+        "DAO",
+        "Metaverse",
+        "Utilities"
     ],
     "version": {
       "major": 1,

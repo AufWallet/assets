@@ -1,7 +1,7 @@
 {
     "name": "AufWallet dapp list",
     "logoURI": "https://assets.aufwallet.com/logo.png",
-    "timestamp": "2022-10-11T01:24:14.964Z",
+    "timestamp": "2022-12-10T09:16:13.650Z",
     "data": [
       {
         "title": "ChainList",
@@ -10,15 +10,15 @@
         "url": "https://chainlist.org/",
         "chainIds": [1],
         "categories": [
-          "Tools"
+          "Utilities"
         ]
       },
       {
         "title": "Uniswap",
         "logoURI": "https://assets.aufwallet.com/dapps/images/uniswap.png",
         "subtitle": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
-        "url": "'https://app.uniswap.org/",
-        "chainIds": [1],
+        "url": "https://app.uniswap.org/",
+        "chainIds": [1, 137],
         "categories": [
           "DeFi",
           "Dex"
@@ -26,7 +26,7 @@
       },
       {
         "title": "Sushi",
-        "logoURI": "https://assets.aufwallet.com/dapps/images/app.sushi.com.png",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sushi.png",
         "subtitle": "Decentralized Exchange Made For Everybody",
         "url": "https://www.sushi.com/swap",
         "chainIds": [1],
@@ -34,11 +34,227 @@
           "DeFi",
           "Dex"
         ]
+      },
+      {
+        "title": "Decentraland",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/decentraland.jpg",
+        "subtitle": "A decentralized, user-owned virtual world on blockchain",
+        "url": "https://decentraland.org/",
+        "chainIds": [1],
+        "categories": [
+          "Metaverse"
+        ]
+      },
+      {
+        "title": "OpenSea",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/opensea.jpg",
+        "subtitle": "Digital marketplace for crypto collectibles",
+        "url": "https://opensea.io",
+        "chainIds": [1, 56],
+        "categories": [
+          "NFT",
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "Bancor",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/bancor.png",
+        "subtitle": "A decentralized liquidity network",
+        "url": "https://www.bancor.network/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "Ethereum Name Service",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/ens.png",
+        "subtitle": "A tool to get .eth domains for your address",
+        "url": "https://ens.domains/",
+        "chainIds": [1],
+        "categories": [
+          "DID"
+        ]
+      },
+      {
+        "title": "Cryptovoxels",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/cryptovoxels.jpg",
+        "subtitle": "A virtual world on the Ethereum blockchain.",
+        "url": "",
+        "chainIds": [1],
+        "categories": [
+          "Metaverse"
+        ]
+      },
+      {
+        "title": "0x Protocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/0x.jpg",
+        "subtitle": "Creating a tokenized world where all value can flow freely",
+        "url": "https://0x.org",
+        "chainIds": [1],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "Compound",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/compound.jpg",
+        "subtitle": "Earn interest on, or borrow Ethereum assets",
+        "url": "https://compound.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Aave",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/aave.jpg",
+        "subtitle": "Open Source Liquidity Protocol",
+        "url": "https://aave.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Curve",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/curve.jpg",
+        "subtitle": "Creating deep on-chain liquidity using advanced bonding curves",
+        "url": "https://www.curve.fi/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "Curve",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/curve.jpg",
+        "subtitle": "Creating deep on-chain liquidity using advanced bonding curves",
+        "url": "https://www.curve.fi/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "1Inch",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/1inch.png",
+        "subtitle": "DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
+        "url": "https://app.1inch.io/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "The Sandbox",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sandbox.",
+        "subtitle": "A decentralized, community driven platform",
+        "url": "https://www.sandbox.game/",
+        "chainIds": [1],
+        "categories": [
+          "Metaverse"
+        ]
+      },
+      {
+        "title": "Dego",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/dego.png",
+        "subtitle": "A brand new idea towards a sustainable DeFi ecosystem.",
+        "url": "https://dego.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "PancakeSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/pancakeswap.png",
+        "subtitle": "The #1 AMM and yield farm on Binance Smart Chain.",
+        "url": "https://pancakeswap.finance",
+        "chainIds": [56],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "Cream",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/cream.png",
+        "subtitle": "An open and inclusive financial system built on smart contracts",
+        "url": "https://cream.finance/",
+        "chainIds": [56],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "X2Y2",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/x2y2.png",
+        "subtitle": "The decentralized NFT marketplace by the people, for the people.",
+        "url": "https://x2y2.io",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "ConstitutionDAO",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/constitution.png",
+        "subtitle": "An experiment in a single-purpose DAO",
+        "url": "https://www.constitutiondao.com/",
+        "chainIds": [1],
+        "categories": [
+          "DAO"
+        ]
+      },
+      {
+        "title": "Synthetix",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/synthetix.jpg",
+        "subtitle": "Synthetic assets",
+        "url": "https://synthetix.exchange/",
+        "chainIds": [1],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "ParaSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/paraswap.jpg",
+        "subtitle": "ParaSwap: fast, efficient & community-driven Ethereum DEX aggregator",
+        "url": "https://www.paraswap.io/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "YFI",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/yfi.jpg",
+        "subtitle": "DeFi Yield aggregator",
+        "url": "https://yearn.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "LooksRare",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/looksrare.png",
+        "subtitle": "The community-first NFT marketplace with rewards for participating",
+        "url": "https://looksrare.org/",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
 }
