@@ -129,17 +129,6 @@
         ]
       },
       {
-        "title": "Curve",
-        "logoURI": "https://assets.aufwallet.com/dapps/images/curve.jpg",
-        "subtitle": "Creating deep on-chain liquidity using advanced bonding curves",
-        "url": "https://www.curve.fi/",
-        "chainIds": [1],
-        "categories": [
-          "DeFi",
-          "Dex"
-        ]
-      },
-      {
         "title": "1Inch",
         "logoURI": "https://assets.aufwallet.com/dapps/images/1inch.png",
         "subtitle": "DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
@@ -152,7 +141,7 @@
       },
       {
         "title": "The Sandbox",
-        "logoURI": "https://assets.aufwallet.com/dapps/images/sandbox.",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sandbox.png",
         "subtitle": "A decentralized, community driven platform",
         "url": "https://www.sandbox.game/",
         "chainIds": [1],
