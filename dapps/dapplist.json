@@ -52,7 +52,6 @@
         "url": "https://opensea.io",
         "chainIds": [1, 56],
         "categories": [
-          "NFT",
           "Marketplace"
         ]
       },
@@ -221,7 +220,7 @@
         ]
       },
       {
-        "title": "YFI",
+        "title": "Yearn Finance",
         "logoURI": "https://assets.aufwallet.com/dapps/images/yfi.jpg",
         "subtitle": "DeFi Yield aggregator",
         "url": "https://yearn.finance/",
@@ -239,11 +238,382 @@
         "categories": [
           "Marketplace"
         ]
+      },
+      {
+        "title": "Lido",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/lido.png",
+        "subtitle": "A liquid staking solution for Ethereum.",
+        "url": "https://stake.lido.fi",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Idle Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/idle-finance.png",
+        "subtitle": "Always the best yield, with no effort",
+        "url": "https://idle.finance",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Plasma Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/plasma-finance.png",
+        "subtitle": "The easiest way to invest in DeFi",
+        "url": "https://apy.plasma.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+          "title": "Notional Finance",
+          "logoURI": "https://assets.aufwallet.com/dapps/images/notional-finance.png",
+          "subtitle": "Fixed rate borrowing and lending",
+          "url": "https://notional.finance/portfolio",
+          "chainIds": [1],
+          "categories": [
+            "DeFi"
+          ]
+      },
+      {
+        "title": "Livepeer",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/livepeer.png",
+        "subtitle": "Decentralized video transcoding network",
+        "url": "http://explorer.livepeer.org",
+        "chainIds": [1],
+        "categories": [
+          "SocialFi"
+        ]
+      },
+      {
+        "title": "Sapien Network",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sapien-network.png",
+        "subtitle": "The Web3 Social Network of the Future",
+        "url": "https://www.sapien.network/",
+        "chainIds": [1],
+        "categories": [
+          "SocialFi"
+        ]
+      },
+      {
+        "title": "Band Protocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/band-protocol.png",
+        "subtitle": "Secure & Scalable Community-Curated Data Oracle",
+        "url": "https://bandprotocol.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Instadapp",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/instadapp-lite.png",
+        "subtitle": "The best Defi Yields in 1-click!",
+        "url": "https://instadapp.io/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "MyEtherWallet",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/myetherwallet.png",
+        "subtitle": "Ethereum wallet - client-side tool",
+        "url": "http://www.myetherwallet.com/",
+        "chainIds": [1],
+        "categories": [
+          "Utilities"
+        ]
+      },
+      {
+        "title": "DeFi Saver",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/defi-saver.png",
+        "subtitle": "One-stop management solution for DeFi protocols.",
+        "url": "https://defisaver.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Rarible",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/rarible.png",
+        "subtitle": "Today is the non-fungible reality of tomorrow.",
+        "url": "https://app.rarible.com/?sort=latest&verified=true",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "SuperRare",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/superrare.png",
+        "subtitle": "The internet's art marketplace",
+        "url": "https://superrare.co/market",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "Mintable",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/mintable.png",
+        "subtitle": "Create/Manage/Browse ERC-721s (NFTs) items",
+        "url": "https://mintable.app",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "Oasis",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/oasis.png",
+        "subtitle": "Where you can borrow Dai against your collateral",
+        "url": "https://oasis.app/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "PoolTogether",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/pooltogether.png",
+        "subtitle": "A No Loss Lottery",
+        "url": "https://app.pooltogether.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Set",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/set.png",
+        "subtitle": "Crypto Asset Management Made Simple",
+        "url": "https://www.tokensets.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Dharma Protocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/dharma-protocol.png",
+        "subtitle": "A cryptobank in every pocket",
+        "url": "https://app.dharma.io/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Nexus Mutual",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/nexus-mutual.png",
+        "subtitle": "Returning the power of insurance to the people.",
+        "url": "https://nexusmutual.io/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "dYdX",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/dydx.png",
+        "subtitle": "A protocol for financial derivatives",
+        "url": "https://dydx.exchange/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "DeFiZap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/defizap.png",
+        "subtitle": "Manage all your DeFi assets from one interface.",
+        "url": "https://zapper.fi/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "IDEX",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/idex.png",
+        "subtitle": "Distributed exchange made of smart contracts",
+        "url": "https://idex.market/",
+        "chainIds": [1],
+        "categories": [
+            "Dex"
+        ]
+      },
+      {
+        "title": "Loopring",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/loopring.png",
+        "subtitle": "Crypto Trading",
+        "url": "https://loopring.org/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Augur",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/augur.png",
+        "subtitle": "Decentralized prediction market",
+        "url": "https://dev.augur.net/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Gnosis",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/gnosis.png",
+        "subtitle": "Prediction market platform",
+        "url": "http://gnosis.pm",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Blur",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/blur.png",
+        "subtitle": "BLUR NFT MARKETPLACE",
+        "url": "https://blur.io/",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "ApeStake",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/apestake.png",
+        "subtitle": "STAKE YOUR APE AND EARN REWARDS",
+        "url": "https://app.apestake.io/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "CowSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/cowswap.png",
+        "subtitle": "The smartest way to trade cryptocurrencies",
+        "url": "https://swap.cow.fi/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi",
+          "Dex"
+        ]
+      },
+      {
+        "title": "Stargate",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/stargate.png",
+        "subtitle": "A Composable Omnichain Native Asset Bridge",
+        "url": "https://stargate.finance/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Gem",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/gem.png",
+        "subtitle": "The Best NFT Aggregator",
+        "url": "https://www.gem.xyz/",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "SudoSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sudo.png",
+        "subtitle": "The decentralized NFT marketplace",
+        "url": "https://sudoswap.xyz/",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "Element Market",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/element.png",
+        "subtitle": "The first community-driven aggregated marketplace, fastest buy, much save and earn more.",
+        "url": "https://www.element.market/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "Convex Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/convex.png",
+        "subtitle": "Convex allows Curve.fi liquidity providers to earn trading fees and claim boosted CRV without locking CRV themselves.",
+        "url": "https://www.convexfinance.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Euler Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/euler.png",
+        "subtitle": "Euler is a permissionless money market protocol on Ethereum, democratising the assets people can lend and borrow.",
+        "url": "https://www.euler.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Decentraland",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/decentraland.png",
+        "subtitle": "A virtual world run on open standards",
+        "url": "https://market.decentraland.org/",
+        "chainIds": [1],
+        "categories": [
+          "Metaverse"
+        ]
+      },
+      {
+        "title": "Balancer",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/balancer.png",
+        "subtitle": "Balancer is a protocol for programmable liquidity",
+        "url": "https://balancer.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Team Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/team-finance.png",
+        "subtitle": "Team Finance is a market leader in token locks, liquidity locks, NFT locks, Token minting, Vesting, and Staking as a Service.",
+        "url": "https://www.team.finance/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Unstoppable Domains",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/unstoppable-domains.png",
+        "subtitle": "Simple Crypto Payments & Uncensorable Websites",
+        "url": "https://unstoppabledomains.com/",
+        "chainIds": [1],
+        "categories": [
+          "DID"
+        ]
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 1
+      "patch": 2
     }
 }

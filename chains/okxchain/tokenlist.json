@@ -1,0 +1,48 @@
+{
+    "name": "AufWallet tokens for OKXChain",
+    "timestamp": "2022-10-11T01:24:14.964Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "keywords": [
+        "aufwallet",
+        "defi"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped OKT",
+            "symbol": "WOKT",
+            "chainId": 66,
+            "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+            "logoURI": "https://assets.aufwallet.com/chains/okxchain/assets/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15/logo.png",
+            "decimals": 18
+        },
+        {
+            "name": "OKB Token",
+            "symbol": "OKB",
+            "chainId": 66,
+            "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+            "logoURI": "https://assets.aufwallet.com/chains/okxchain/assets/0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2/logo.png",
+            "decimals": 18
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "chainId": 66,
+            "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+            "logoURI": "https://assets.aufwallet.com/chains/okxchain/assets/0x382bB369d343125BfB2117af9c149795C6C65C50/logo.png",
+            "decimals": 18
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "chainId": 66,
+            "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+            "logoURI": "https://assets.aufwallet.com/chains/okxchain/assets/0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85/logo.png",
+            "decimals": 18
+        }
+    ]
+}

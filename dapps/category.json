@@ -4,20 +4,20 @@
     "timestamp": "2022-10-11T01:24:14.964Z",
     "data": [
         "DeFi",
-        "Dex",
         "NFT",
-        "Derivative",
-        "Play2Earn",
+        "Marketplace",
         "GameFi",
         "SocialFi",
-        "Marketplace",
-        "DAO",
         "Metaverse",
-        "Utilities"
+        "DAO",
+        "L2",
+        "CrossChain",
+        "Utilities",
+        "Dex"
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
 }
