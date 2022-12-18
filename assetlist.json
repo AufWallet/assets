@@ -1,0 +1,101 @@
+{
+    "name": "AufWallet asset version list",
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "timestamp": "2022-10-11T01:24:14.964Z",
+    "data": [
+      {
+        "path": "/tokenlists.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/dapps/dapplist.json",
+        "version": "1.0.2"
+      },
+      {
+        "path": "/dapps/category.json",
+        "version": "1.0.1"
+      },
+      {
+        "path": "/chains/chainlist.json",
+        "version": "1.0.1"
+      },
+
+      {
+        "path": "/chains/arbitrum/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/arbitrum/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/avalanche/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/avalanche/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/binance/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/binance/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/ethereum/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/ethereum/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/fantom/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/fantom/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/heco/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/heco/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/okxchain/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/okxchain/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/optimism/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/optimism/nftlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/polygon/tokenlist.json",
+        "version": "1.0.0"
+      },
+      {
+        "path": "/chains/polygon/nftlist.json",
+        "version": "1.0.0"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}

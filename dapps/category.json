@@ -13,6 +13,7 @@
         "L2",
         "CrossChain",
         "Utilities",
+        "Storage",
         "Dex"
     ],
     "version": {

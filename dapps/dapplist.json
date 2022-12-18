@@ -18,7 +18,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/uniswap.png",
         "subtitle": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
         "url": "https://app.uniswap.org/",
-        "chainIds": [1, 137],
+        "chainIds": [1, 137, 42161],
         "categories": [
           "DeFi",
           "Dex"
@@ -29,7 +29,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/sushi.png",
         "subtitle": "Decentralized Exchange Made For Everybody",
         "url": "https://www.sushi.com/swap",
-        "chainIds": [1],
+        "chainIds": [1, 56, 137, 250, 42161, 43114],
         "categories": [
           "DeFi",
           "Dex"
@@ -111,7 +111,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/aave.jpg",
         "subtitle": "Open Source Liquidity Protocol",
         "url": "https://aave.com/",
-        "chainIds": [1],
+        "chainIds": [1, 56, 128, 137, 250, 42161, 43114],
         "categories": [
           "DeFi"
         ]
@@ -121,7 +121,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/curve.jpg",
         "subtitle": "Creating deep on-chain liquidity using advanced bonding curves",
         "url": "https://www.curve.fi/",
-        "chainIds": [1],
+        "chainIds": [1, 137, 250, 42161, 43114],
         "categories": [
           "DeFi",
           "Dex"
@@ -155,7 +155,8 @@
         "url": "https://dego.finance/",
         "chainIds": [1],
         "categories": [
-          "DeFi"
+          "DeFi",
+          "NFT"
         ]
       },
       {
@@ -174,7 +175,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/cream.png",
         "subtitle": "An open and inclusive financial system built on smart contracts",
         "url": "https://cream.finance/",
-        "chainIds": [56],
+        "chainIds": [1, 56, 137, 250, 42161, 43114],
         "categories": [
           "DeFi"
         ]
@@ -224,7 +225,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/yfi.jpg",
         "subtitle": "DeFi Yield aggregator",
         "url": "https://yearn.finance/",
-        "chainIds": [1],
+        "chainIds": [1, 250, 42161],
         "categories": [
           "DeFi"
         ]
@@ -384,7 +385,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/pooltogether.png",
         "subtitle": "A No Loss Lottery",
         "url": "https://app.pooltogether.com/",
-        "chainIds": [1],
+        "chainIds": [1, 137],
         "categories": [
           "DeFi"
         ]
@@ -515,9 +516,10 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/stargate.png",
         "subtitle": "A Composable Omnichain Native Asset Bridge",
         "url": "https://stargate.finance/",
-        "chainIds": [1, 56, 137],
+        "chainIds": [1, 56, 137, 250, 42161, 43114],
         "categories": [
-          "DeFi"
+          "DeFi",
+          "CrossChain"
         ]
       },
       {
@@ -585,7 +587,7 @@
         "logoURI": "https://assets.aufwallet.com/dapps/images/balancer.png",
         "subtitle": "Balancer is a protocol for programmable liquidity",
         "url": "https://balancer.finance/",
-        "chainIds": [1],
+        "chainIds": [1, 137, 42161],
         "categories": [
           "DeFi"
         ]
