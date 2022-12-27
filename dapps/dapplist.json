@@ -611,11 +611,465 @@
         "categories": [
           "DID"
         ]
+      },
+      {
+        "title": "SuperBots",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/superbots.png",
+        "subtitle": "Automatic Decentralized Trading Protocol",
+        "url": "https://app.superbots.finance/",
+        "chainIds": [56],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Beefy",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/beefy.png",
+        "subtitle": "Multichain Yield Optimizer",
+        "url": "https://app.beefy.finance/",
+        "chainIds": [1, 56, 128, 137, 10, 250, 43114, 42161],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Locomotive Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/locomotive-finance.png",
+        "subtitle": "Invest with Crypto Trading Experts",
+        "url": "https://app.locomotive.finance",
+        "chainIds": [56],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Oracle Locker",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/oracle-locker.png",
+        "subtitle": "Multichain Oracle Assets Lock",
+        "url": "https://decentrallabs.github.io/OracleLocker/",
+        "chainIds": [1, 56, 137, 43114],
+        "categories": [
+          "Utilities"
+        ]
+      },
+      {
+        "title": "Alpaca Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/alpaca-finance.png",
+        "subtitle": "The largest leveraged yield farming protocol",
+        "url": "https://app.alpacafinance.org/",
+        "chainIds": [
+          56, 250
+        ],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "ApeBoard",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/apeboard.png",
+        "subtitle": "Track DeFi Portfolios",
+        "url": "https://apeboard.finance/",
+        "chainIds": [
+          1, 56, 66, 128, 250, 43114, 42161, 137, 10
+        ],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Request Network",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/request-network.png",
+        "subtitle": "The protocol for payment requests",
+        "url": "https://create.request.network/",
+        "chainIds": [1],
+        "categories": [
+          "Utilities"
+        ]
+      },
+      {
+        "title": "Kromatika Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/kromatika-finance.png",
+        "subtitle": "Makes DEX trading simple, accessible, and affordable on Ethereum L1 and L2’s.",
+        "url": "https://app.kromatika.finance",
+        "chainIds": [1],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "OctoFi",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/octofi.png",
+        "subtitle": "All-in-one DeFi and NFT with cashbacks",
+        "url": "https://app.octo.fi/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Streamr Core",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/streamr-core.png",
+        "subtitle": "Real-time data toolkit",
+        "url": "https://www.streamr.com/core",
+        "chainIds": [1],
+        "categories": [
+            "Utilities"
+        ]
+      },
+      {
+        "title": "Carpe DAO",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/carpe-dao.png",
+        "subtitle": "HODL for Everyone",
+        "url": "https://app.carpedao.org",
+        "chainIds": [1],
+        "categories": [
+          "DAO", "Utilities"
+        ]
+      },
+      {
+        "title": "Gala Games",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/townstar.png",
+        "subtitle": "Play, Earn, Repeat.",
+        "url": "https://app.gala.games",
+        "chainIds": [1],
+        "categories": [
+          "GameFi"
+        ]
+      },
+      {
+        "title": "NFTZine",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/nftzine.png",
+        "subtitle": "An interactive and printable NFT Zine",
+        "url": "https://nftzine.io/",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "Bauhaus Blocks",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/bauhaus-blocks.png",
+        "subtitle": "Generative NFT Art Collection",
+        "url": "https://bauhausblocks.io/",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "The Tap Platform",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/the-tap-platform.png",
+        "subtitle": "Play mobile and PC games earn cryptocurrency !",
+        "url": "https://tapplatform.io/challenges",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "Trustlines Protocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/trustlines-protocol.png",
+        "subtitle": "Building a better financial system",
+        "url": "https://trustlines.app/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Non-Fungible Soup",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/non-fungible-soup.png",
+        "subtitle": "Generative NFT Art Collection",
+        "url": "https://nonfungiblesoup.io/",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "Symbiosis Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/symbiosis-finance.png",
+        "subtitle": "A multi-chain liquidity enabler",
+        "url": "https://symbiosis.finance/",
+        "chainIds": [1, 137, 56, 43114],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "BASΞD VITALIK",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/basksd-vitalik.png",
+        "subtitle": "Generative NFT collection based on Vitalik Buterin",
+        "url": "https://basedvitalik.io/",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "Neverlose.money",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/neverlose-money.png",
+        "subtitle": "Gamified HODL Protocol",
+        "url": "https://neverlose.money",
+        "chainIds": [1],
+        "categories": [
+          "DeFi", "Utilities"
+        ]
+      },
+      {
+        "title": "Colony",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/colony.png",
+        "subtitle": "The best way to build your DAO",
+        "url": "https://colony.io/",
+        "chainIds": [1],
+        "categories": [
+          "DAO"
+        ]
+      },
+      {
+        "title": "Aleph.im",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/aleph.png",
+        "subtitle": "Cloud Computing for DeFi & Web3 Simplified!",
+        "url": "https://aleph.im/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Chainlink",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/chainlink.png",
+        "subtitle": "Your smart contracts connected to real world data, events and payments.",
+        "url": "https://chain.link",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Rocket Competition",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/rocket-competition.png",
+        "subtitle": "Machine Learning Tournament",
+        "url": "https://competition.rocketcapital.ai",
+        "chainIds": [137],
+        "categories": [
+          "GameFi"
+        ]
+      },
+      {
+        "title": "BProtocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/bprotocol.png",
+        "subtitle": "A Backstop Liquidity Protocol",
+        "url": "https://www.bprotocol.org/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Counterstake on Ethereum",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/counterstake-on-ethereum.png",
+        "subtitle": "A fully decentralized cross-chain bridge",
+        "url": "https://counterstake.org",
+        "chainIds": [1],
+        "categories": [
+          "CrossChain"
+        ]
+      },
+      {
+        "title": "Datamine",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/datamine.png",
+        "subtitle": "FLUX: Time is Money 2.0",
+        "url": "https://datamine.network/dashboard",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "TopBidder Protocol",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/topbidder-protocol.png",
+        "subtitle": "TopBidder is a radical auction protocol for NFTs",
+        "url": "https://bidder.top",
+        "chainIds": [1],
+        "categories": [
+          "NFT"
+        ]
+      },
+      {
+        "title": "LikeCoin",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/likecoin.png",
+        "subtitle": "Rewarding contents by Proof of Creativity",
+        "url": "https://like.co",
+        "chainIds": [1],
+        "categories": [
+          "DID"
+        ]
+      },
+      {
+        "title": "RCN Network",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/rcn-network.png",
+        "subtitle": "Global Credit Network",
+        "url": "https://rcn.market/",
+        "chainIds": [1, 56, 137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "PEAKDEFI",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/peakdefi.png",
+        "subtitle": "Global, Performance-based Asset Management Fund",
+        "url": "https://peakdefi.com/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Totle",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/totle.png",
+        "subtitle": "Reliable DeFi Aggregation",
+        "url": "https://www.totle.com/",
+        "chainIds": [1],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "Sapien Network",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/sapien-network.png",
+        "subtitle": "The Web3 Social Network of the Future",
+        "url": "https://www.sapien.network/",
+        "chainIds": [1],
+        "categories": [
+          "SocialFi"
+        ]
+      },
+      {
+        "title": "KnownOrigin Marketplace",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/knownorigin-marketplace.png",
+        "subtitle": "Discover, buy and collect digital copies of artwork",
+        "url": "http://knownorigin.io/",
+        "chainIds": [1],
+        "categories": [
+          "Marketplace"
+        ]
+      },
+      {
+        "title": "CryptoTunes",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/cryptotunes.png",
+        "subtitle": "Create and Discover Digital Music",
+        "url": "https://cryptotracks.io/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "O3 Swap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/o3swap.png",
+        "subtitle": "O3 Swap is a cross-chain aggregation protocol, allowing users to access multi-chain liquidity sources on one platform.",
+        "url": "https://o3swap.com/",
+        "chainIds": [1, 56, 128, 250, 10, 42161, 43114],
+        "categories": [
+          "Dex", "CrossChain"
+        ]
+      },
+      {
+        "title": "Wombat Exchange",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/wombat.png",
+        "subtitle": "A GROUNDBREAKING Multichain Stableswap",
+        "url": "https://www.wombat.exchange/",
+        "chainIds": [56],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "BiSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/biswap.png",
+        "subtitle": "Trade, Earn, Refer on the most progressive DEX on BNB Chain",
+        "url": "https://biswap.org/",
+        "chainIds": [56],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "MDEX",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/mdex.png",
+        "subtitle": "An AMM-based decentralized transaction protocol that integrates DEX, IMO & DAO",
+        "url": "http://mdex.com",
+        "chainIds": [1, 56, 128],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "Frax Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/frax.png",
+        "subtitle": "The world’s first fractional stablecoin and crypto native consumer price index",
+        "url": "https://app.frax.finance/",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "QuickSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/quick.png",
+        "subtitle": "Top Asset Exchange on the Polygon Network",
+        "url": "https://quickswap.exchange/",
+        "chainIds": [137],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "NomiSwap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/nomi.png",
+        "subtitle": "First DEX in DeFi space with 0% swap fees and team farming",
+        "url": "https://nomiswap.io/",
+        "chainIds": [56],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "Ellipsis Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/ellipsis.png",
+        "subtitle": "Trade on the most flexible and capital-efficient DEX on BNB Chain",
+        "url": "https://ellipsis.finance/",
+        "chainIds": [56],
+        "categories": [
+          "Dex"
+        ]
+      },
+      {
+        "title": "Multichain",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/multichain.png",
+        "subtitle": "Cross-Chain Router Protocol",
+        "url": "https://multichain.xyz/",
+        "chainIds": [1, 56, 137, 250, 42161, 43114],
+        "categories": [
+          "Dex", "CrossChain"
+        ]
+      },
+      {
+        "title": "CoinTool",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/cointool.png",
+        "subtitle": "A convenient blockchain tool for the majority of cryptocurrency enthusiasts to meet various needs.",
+        "url": "https://cointool.app/",
+        "chainIds": [1, 56, 137, 250, 42161, 43114],
+        "categories": [
+          "Utilities"
+        ]
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 2
+      "patch": 0
     }
 }
