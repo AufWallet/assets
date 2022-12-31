@@ -11,12 +11,6 @@
         "isDefault": true
       },
       {
-        "name": "CoinGecko",
-        "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
-        "url": "https://tokens.coingecko.com/uniswap/all.json",
-        "chainId": 1
-      },
-      {
         "name": "AufWallet tokens for Binance",
         "logoURI": "https://assets.aufwallet.com/logo.png",
         "url": "https://assets.aufwallet.com/chains/binance/tokenlist.json",
@@ -24,22 +18,58 @@
         "isDefault": true
       },
       {
-        "name": "CoinMarketCap",
-        "logoURI": "https://ipfs.io/ipfs/QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
-        "url": "https://tokens.pancakeswap.finance/cmc.json",
-        "chainId": 56
-      },
-      {
         "name": "AufWallet tokens for Polygon",
         "logoURI": "https://assets.aufwallet.com/logo.png",
         "url": "https://assets.aufwallet.com/chains/polygon/tokenlist.json",
         "chainId": 137,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for Fantom",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/fantom/tokenlist.json",
+        "chainId": 250,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for Avalanche",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/avalanche/tokenlist.json",
+        "chainId": 43114,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for Arbitrum",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/arbitrum/tokenlist.json",
+        "chainId": 42161,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for Optimism",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/optimism/tokenlist.json",
+        "chainId": 10,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for Heco",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/heco/tokenlist.json",
+        "chainId": 128,
+        "isDefault": true
+      },
+      {
+        "name": "AufWallet tokens for OKXChain",
+        "logoURI": "https://assets.aufwallet.com/logo.png",
+        "url": "https://assets.aufwallet.com/chains/okxchain/tokenlist.json",
+        "chainId": 66,
         "isDefault": true
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
 }

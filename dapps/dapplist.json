@@ -1065,11 +1065,91 @@
         "categories": [
           "Utilities"
         ]
+      },
+      {
+        "title": "Behop",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/behop.png",
+        "subtitle": "Trade two or more tokens in one go, at the exact price you see, with no extra fees.",
+        "url": "https://bebop.xyz/trade",
+        "chainIds": [1],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Arrakis Finance",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/arrakis.png",
+        "subtitle": "Automated Liquidity Provision Management on Uniswap v3.",
+        "url": "https://www.arrakis.finance/",
+        "chainIds": [1, 10, 137, 42161],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Atlendis Labs",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/atlendis.png",
+        "subtitle": "Choose your borrowers, your rates, and take control of your yield on Atlendis.",
+        "url": "https://app.atlendis.io/",
+        "chainIds": [137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Syndicate",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/syndicate.png",
+        "subtitle": "Invest in anything—together, and on-chain with Syndicate",
+        "url": "https://app.syndicate.io/",
+        "chainIds": [1, 137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "RociFi",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/rocifi.png",
+        "subtitle": "UNDER-COLLATERALIZED CREDIT PROTOCOL ON POLYGON",
+        "url": "https://roci.fi/",
+        "chainIds": [137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "0VIX",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/0vix.png",
+        "subtitle": "Decentralized Money Markets",
+        "url": "https://app.0vix.com/",
+        "chainIds": [137],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Slingshot",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/slingshot.png",
+        "subtitle": "The web3 way to swap crypto.",
+        "url": "https://app.slingshot.finance/",
+        "chainIds": [56, 137, 42161],
+        "categories": [
+          "DeFi"
+        ]
+      },
+      {
+        "title": "Swaap",
+        "logoURI": "https://assets.aufwallet.com/dapps/images/swaap.png",
+        "subtitle": "Invest & trade with peace of mind.",
+        "url": "https://www.swaap.finance/",
+        "chainIds": [137],
+        "categories": [
+          "DeFi"
+        ]
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
 }
