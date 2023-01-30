@@ -1,0 +1,15 @@
+{
+    "name": "AufWallet tokens for Cosmos Hub",
+    "timestamp": "2022-10-11T01:24:14.964Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "keywords": [
+        "aufwallet",
+        "cosmos"
+    ],
+    "tokens": []
+}

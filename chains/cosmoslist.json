@@ -1,0 +1,651 @@
+{
+  "name": "AufWallet cosmos chain list",
+  "logoURI": "https://assets.aufwallet.com/logo.png",
+  "timestamp": "2022-10-11T01:24:14.964Z",
+  "data": [
+    {
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/cosmoshub-4/info/logo.png",
+      "chainId": 0,
+      "chainSid": "cosmoshub-4",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/cosmos",
+      "rpcUrls": [
+        "https://rpc-cosmoshub.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "cosmos",
+      "chainType": 1,
+      "multicall": "https://lcd-cosmoshub.keplr.app",
+      "priceId": "cosmos",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/osmosis-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "osmosis-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/osmosis",
+      "rpcUrls": [
+        "https://rpc-osmosis.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "osmo",
+      "chainType": 1,
+      "multicall": "https://lcd-osmosis.keplr.app",
+      "priceId": "osmosis",
+      "features": [
+        "ibc-transfer",
+        "ibc-go",
+        "cosmwasm",
+        "wasmd_0.24+",
+        "osmosis-txfees"
+      ]
+    },
+    {
+      "name": "Secret Network",
+      "symbol": "SCRT",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/secret-4/info/logo.png",
+      "chainId": 0,
+      "chainSid": "secret-4",
+      "coinType": 529,
+      "explorer": "https://www.mintscan.io/secret",
+      "rpcUrls": [
+        "https://rpc-secret.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "secret",
+      "chainType": 1,
+      "multicall": "https://lcd-secret.keplr.app",
+      "priceId": "secret",
+      "features": [
+        "secretwasm",
+        "ibc-go",
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Akash",
+      "symbol": "AKT",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/akashnet-2/info/logo.png",
+      "chainId": 0,
+      "chainSid": "akashnet-2",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/akash",
+      "rpcUrls": [
+        "https://rpc-akash.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "akash",
+      "chainType": 1,
+      "multicall": "https://lcd-akash.keplr.app",
+      "priceId": "akash-network",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Crypto.org",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://assets.aufwallet.com/chains/crypto-org-chain-mainnet-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "crypto-org-chain-mainnet-1",
+      "coinType": 394,
+      "explorer": "https://www.mintscan.io/crypto-org",
+      "rpcUrls": [
+        "https://rpc-crypto-org.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "cro",
+      "chainType": 1,
+      "multicall": "https://lcd-crypto-org.keplr.app",
+      "priceId": "crypto-com-chain",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Starname",
+      "symbol": "IOV",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/iov-mainnet-ibc/info/logo.png",
+      "chainId": 0,
+      "chainSid": "iov-mainnet-ibc",
+      "coinType": 234,
+      "explorer": "https://www.mintscan.io/starname",
+      "rpcUrls": [
+        "https://rpc-iov.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "star",
+      "chainType": 1,
+      "multicall": "https://lcd-iov.keplr.app",
+      "priceId": "starname",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Sifchain",
+      "symbol": "ROWAN",
+      "decimals": 18,
+      "logoURI": "https://assets.aufwallet.com/chains/sifchain-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "sifchain-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/sifchain",
+      "rpcUrls": [
+        "https://rpc-sifchain.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "sif",
+      "chainType": 1,
+      "multicall": "https://lcd-sifchain.keplr.app",
+      "priceId": "sifchain",
+      "features": []
+    },
+    {
+      "name": "Shentu",
+      "symbol": "CTK",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/shentu-2.2/info/logo.png",
+      "chainId": 0,
+      "chainSid": "shentu-2.2",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/shentu",
+      "rpcUrls": [
+        "https://rpc-certik.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "certik",
+      "chainType": 1,
+      "multicall": "https://lcd-certik.keplr.app",
+      "priceId": "certik",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "IRISnet",
+      "symbol": "IRIS",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/irishub-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "irishub-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/iris",
+      "rpcUrls": [
+        "https://rpc-iris.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "iaa",
+      "chainType": 1,
+      "multicall": "https://lcd-iris.keplr.app",
+      "priceId": "iris-network",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Regen",
+      "symbol": "REGEN",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/regen-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "regen-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/regen",
+      "rpcUrls": [
+        "https://rpc-regen.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "regen",
+      "chainType": 1,
+      "multicall": "https://lcd-regen.keplr.app",
+      "priceId": "regen",
+      "features": [
+        "ibc-go",
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Persistence",
+      "symbol": "XPRT",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/core-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "core-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/persistence",
+      "rpcUrls": [
+        "https://rpc-persistence.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "persistence",
+      "chainType": 1,
+      "multicall": "https://lcd-persistence.keplr.app",
+      "priceId": "persistence",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Sentinel",
+      "symbol": "DVPN",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/sentinelhub-2/info/logo.png",
+      "chainId": 0,
+      "chainSid": "sentinelhub-2",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/sentinel",
+      "rpcUrls": [
+        "https://rpc-sentinel.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "sent",
+      "chainType": 1,
+      "multicall": "https://lcd-sentinel.keplr.app",
+      "priceId": "sentinel",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "ixo",
+      "symbol": "IXO",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/ixo-4/info/logo.png",
+      "chainId": 0,
+      "chainSid": "ixo-4",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/ixo",
+      "rpcUrls": [
+        "https://rpc-ixo.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "ixo",
+      "chainType": 1,
+      "multicall": "https://lcd-ixo.keplr.app",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "e-Money",
+      "symbol": "NGM",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/emoney-3/info/logo.png",
+      "chainId": 0,
+      "chainSid": "emoney-3",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/emoney",
+      "rpcUrls": [
+        "https://rpc-emoney.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "emoney",
+      "chainType": 1,
+      "multicall": "https://lcd-emoney.keplr.app",
+      "priceId": "e-money",
+      "features": [
+        "ibc-transfer"
+      ]
+    },
+    {
+      "name": "Agoric",
+      "symbol": "BLD",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/agoric-3/info/logo.png",
+      "chainId": 0,
+      "chainSid": "agoric-3",
+      "coinType": 564,
+      "explorer": "https://agoric.bigdipper.live/",
+      "rpcUrls": [
+        "https://rpc-agoric.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "agoric",
+      "chainType": 1,
+      "multicall": "https://lcd-agoric.keplr.app",
+      "priceId": "agoric",
+      "features": [
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Juno",
+      "symbol": "JUNO",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/juno-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "juno-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/juno",
+      "rpcUrls": [
+        "https://rpc-juno.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "juno",
+      "chainType": 1,
+      "multicall": "https://lcd-juno.keplr.app",
+      "priceId": "juno-network",
+      "features": [
+        "cosmwasm",
+        "ibc-transfer",
+        "ibc-go",
+        "wasmd_0.24+"
+      ]
+    },
+    {
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/stargaze-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "stargaze-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/stargaze",
+      "rpcUrls": [
+        "https://rpc-stargaze.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "stars",
+      "chainType": 1,
+      "multicall": "https://lcd-stargaze.keplr.app",
+      "priceId": "stargaze",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/axelar-dojo-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "axelar-dojo-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/axelar",
+      "rpcUrls": [
+        "https://rpc-axelar.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "axelar",
+      "chainType": 1,
+      "multicall": "https://lcd-axelar.keplr.app",
+      "priceId": "axelar",
+      "features": [
+        "ibc-transfer",
+        "ibc-go",
+        "axelar-evm-bridge"
+      ]
+    },
+    {
+      "name": "Sommelier",
+      "symbol": "SOMM",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/sommelier-3/info/logo.png",
+      "chainId": 0,
+      "chainSid": "sommelier-3",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/sommelier",
+      "rpcUrls": [
+        "https://rpc-sommelier.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "somm",
+      "chainType": 1,
+      "multicall": "https://lcd-sommelier.keplr.app",
+      "priceId": "sommelier",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Umee",
+      "symbol": "UMEE",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/umee-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "umee-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/umee",
+      "rpcUrls": [
+        "https://rpc-umee.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "umee",
+      "chainType": 1,
+      "multicall": "https://lcd-umee.keplr.app",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Gravity Bridge",
+      "symbol": "GRAV",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/gravity-bridge-3/info/logo.png",
+      "chainId": 0,
+      "chainSid": "gravity-bridge-3",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/gravity-bridge",
+      "rpcUrls": [
+        "https://rpc-gravity-bridge.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "gravity",
+      "chainType": 1,
+      "multicall": "https://lcd-gravity-bridge.keplr.app",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Tgrade",
+      "symbol": "TGD",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/tgrade-mainnet-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "tgrade-mainnet-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/tgrade",
+      "rpcUrls": [
+        "https://rpc-tgrade.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "tgrade",
+      "chainType": 1,
+      "multicall": "https://lcd-tgrade.keplr.app",
+      "features": [
+        "cosmwasm",
+        "ibc-transfer",
+        "ibc-go",
+        "wasmd_0.24+"
+      ]
+    },
+    {
+      "name": "Stride",
+      "symbol": "STRD",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/stride-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "stride-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/stride",
+      "rpcUrls": [
+        "https://rpc-stride.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "stride",
+      "chainType": 1,
+      "multicall": "https://lcd-stride.keplr.app",
+      "priceId": "stride",
+      "features": [
+        "ibc-transfer",
+        "ibc-go"
+      ]
+    },
+    {
+      "name": "Evmos",
+      "symbol": "EVMOS",
+      "decimals": 18,
+      "logoURI": "https://assets.aufwallet.com/chains/evmos_9001-2/info/logo.png",
+      "chainId": 0,
+      "chainSid": "evmos_9001-2",
+      "coinType": 60,
+      "explorer": "https://www.mintscan.io/evmos",
+      "rpcUrls": [
+        "https://rpc-evmos.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "evmos",
+      "chainType": 1,
+      "multicall": "https://lcd-evmos.keplr.app",
+      "priceId": "evmos",
+      "features": [
+        "ibc-transfer",
+        "ibc-go",
+        "eth-address-gen",
+        "eth-key-sign"
+      ]
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "decimals": 18,
+      "logoURI": "https://assets.aufwallet.com/chains/injective-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "injective-1",
+      "coinType": 60,
+      "explorer": "https://www.mintscan.io/injective",
+      "rpcUrls": [
+        "https://rpc-injective.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "inj",
+      "chainType": 1,
+      "multicall": "https://lcd-injective.keplr.app",
+      "priceId": "injective-protocol",
+      "features": [
+        "ibc-transfer",
+        "ibc-go",
+        "eth-address-gen",
+        "eth-key-sign"
+      ]
+    },
+    {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/kava_2222-10/info/logo.png",
+      "chainId": 0,
+      "chainSid": "kava_2222-10",
+      "coinType": 459,
+      "explorer": "https://www.mintscan.io/kava",
+      "rpcUrls": [
+        "https://rpc-kava.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "kava",
+      "chainType": 1,
+      "multicall": "https://lcd-kava.keplr.app",
+      "priceId": "kava"
+    },
+    {
+      "name": "Quicksilver",
+      "symbol": "QCK",
+      "decimals": 6,
+      "logoURI": "https://assets.aufwallet.com/chains/quicksilver-1/info/logo.png",
+      "chainId": 0,
+      "chainSid": "quicksilver-1",
+      "coinType": 118,
+      "explorer": "https://www.mintscan.io/quicksilver",
+      "rpcUrls": [
+        "https://rpc-quicksilver.keplr.app"
+      ],
+      "encoders": [
+        1
+      ],
+      "hrp": "quick",
+      "chainType": 1,
+      "multicall": "https://lcd-quicksilver.keplr.app",
+      "features": []
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
