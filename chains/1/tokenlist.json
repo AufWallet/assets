@@ -18,7 +18,7 @@
             "symbol": "1INCH",
             "chainId": 1,
             "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png",
             "decimals": 18
         },
         {
@@ -26,7 +26,7 @@
             "symbol": "AAVE",
             "chainId": 1,
             "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
             "decimals": 18
         },
         {
@@ -34,7 +34,7 @@
             "symbol": "ABT",
             "chainId": 1,
             "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986/logo.png",
             "decimals": 18
         },
         {
@@ -42,7 +42,7 @@
             "symbol": "ACH",
             "chainId": 1,
             "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png",
             "decimals": 8
         },
         {
@@ -50,7 +50,7 @@
             "symbol": "ADX",
             "chainId": 1,
             "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png",
             "decimals": 18
         },
         {
@@ -58,7 +58,7 @@
             "symbol": "AIOZ",
             "chainId": 1,
             "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png",
             "decimals": 18
         },
         {
@@ -66,7 +66,7 @@
             "symbol": "ALEPH",
             "chainId": 1,
             "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png",
             "decimals": 18
         },
         {
@@ -74,7 +74,7 @@
             "symbol": "ALICE",
             "chainId": 1,
             "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png",
             "decimals": 6
         },
         {
@@ -82,7 +82,7 @@
             "symbol": "ALPHA",
             "chainId": 1,
             "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png",
             "decimals": 18
         },
         {
@@ -90,7 +90,7 @@
             "symbol": "AMP",
             "chainId": 1,
             "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png",
             "decimals": 18
         },
         {
@@ -98,7 +98,7 @@
             "symbol": "ANKR",
             "chainId": 1,
             "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png",
             "decimals": 18
         },
         {
@@ -106,7 +106,7 @@
             "symbol": "ANT",
             "chainId": 1,
             "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png",
             "decimals": 18
         },
         {
@@ -114,7 +114,7 @@
             "symbol": "APE",
             "chainId": 1,
             "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png",
             "decimals": 18
         },
         {
@@ -122,7 +122,7 @@
             "symbol": "ARPA",
             "chainId": 1,
             "address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a/logo.png",
             "decimals": 18
         },
         {
@@ -130,7 +130,7 @@
             "symbol": "AST",
             "chainId": 1,
             "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png",
             "decimals": 4
         },
         {
@@ -138,7 +138,7 @@
             "symbol": "ATA",
             "chainId": 1,
             "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png",
             "decimals": 18
         },
         {
@@ -146,7 +146,7 @@
             "symbol": "AUDIO",
             "chainId": 1,
             "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png",
             "decimals": 18
         },
         {
@@ -154,7 +154,7 @@
             "symbol": "AXS",
             "chainId": 1,
             "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png",
             "decimals": 18
         },
         {
@@ -162,7 +162,7 @@
             "symbol": "BADGER",
             "chainId": 1,
             "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png",
             "decimals": 18
         },
         {
@@ -170,7 +170,7 @@
             "symbol": "BAL",
             "chainId": 1,
             "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
             "decimals": 18
         },
         {
@@ -178,7 +178,7 @@
             "symbol": "BAND",
             "chainId": 1,
             "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png",
             "decimals": 18
         },
         {
@@ -186,7 +186,7 @@
             "symbol": "BAT",
             "chainId": 1,
             "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png",
             "decimals": 18
         },
         {
@@ -194,7 +194,7 @@
             "symbol": "BIT",
             "chainId": 1,
             "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png",
             "decimals": 18
         },
         {
@@ -202,7 +202,7 @@
             "symbol": "BLZ",
             "chainId": 1,
             "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x5732046A883704404F284Ce41FfADd5b007FD668/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x5732046A883704404F284Ce41FfADd5b007FD668/logo.png",
             "decimals": 18
         },
         {
@@ -210,7 +210,7 @@
             "symbol": "BNT",
             "chainId": 1,
             "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
             "decimals": 18
         },
         {
@@ -218,7 +218,7 @@
             "symbol": "BOND",
             "chainId": 1,
             "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png",
             "decimals": 18
         },
         {
@@ -226,7 +226,7 @@
             "symbol": "BUSD",
             "chainId": 1,
             "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
             "decimals": 18
         },
         {
@@ -234,7 +234,7 @@
             "symbol": "C98",
             "chainId": 1,
             "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png",
             "decimals": 18
         },
         {
@@ -242,7 +242,7 @@
             "symbol": "CELR",
             "chainId": 1,
             "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4F9254C83EB525f9FCf346490bbb3ed28a81C667/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4F9254C83EB525f9FCf346490bbb3ed28a81C667/logo.png",
             "decimals": 18
         },
         {
@@ -250,7 +250,7 @@
             "symbol": "CHR",
             "chainId": 1,
             "address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2/logo.png",
             "decimals": 6
         },
         {
@@ -258,7 +258,7 @@
             "symbol": "CHZ",
             "chainId": 1,
             "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png",
             "decimals": 18
         },
         {
@@ -266,7 +266,7 @@
             "symbol": "CLV",
             "chainId": 1,
             "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52/logo.png",
             "decimals": 18
         },
         {
@@ -274,7 +274,7 @@
             "symbol": "COMP",
             "chainId": 1,
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
             "decimals": 18
         },
         {
@@ -282,7 +282,7 @@
             "symbol": "COTI",
             "chainId": 1,
             "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xDDB3422497E61e13543BeA06989C0789117555c5/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xDDB3422497E61e13543BeA06989C0789117555c5/logo.png",
             "decimals": 18
         },
         {
@@ -290,7 +290,7 @@
             "symbol": "COVAL",
             "chainId": 1,
             "address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png",
             "decimals": 8
         },
         {
@@ -298,7 +298,7 @@
             "symbol": "CQT",
             "chainId": 1,
             "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xD417144312DbF50465b1C641d016962017Ef6240/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xD417144312DbF50465b1C641d016962017Ef6240/logo.png",
             "decimals": 18
         },
         {
@@ -306,7 +306,7 @@
             "symbol": "CRO",
             "chainId": 1,
             "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png",
             "decimals": 8
         },
         {
@@ -314,7 +314,7 @@
             "symbol": "CRPT",
             "chainId": 1,
             "address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B/logo.png",
             "decimals": 18
         },
         {
@@ -322,7 +322,7 @@
             "symbol": "CRV",
             "chainId": 1,
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
             "decimals": 18
         },
         {
@@ -330,7 +330,7 @@
             "symbol": "CTSI",
             "chainId": 1,
             "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
             "decimals": 18
         },
         {
@@ -338,7 +338,7 @@
             "symbol": "CVC",
             "chainId": 1,
             "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x41e5560054824eA6B0732E656E3Ad64E20e94E45/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x41e5560054824eA6B0732E656E3Ad64E20e94E45/logo.png",
             "decimals": 8
         },
         {
@@ -346,7 +346,7 @@
             "symbol": "CVX",
             "chainId": 1,
             "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png",
             "decimals": 18
         },
         {
@@ -354,7 +354,7 @@
             "symbol": "DAI",
             "chainId": 1,
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
             "decimals": 18
         },
         {
@@ -362,7 +362,7 @@
             "symbol": "DDX",
             "chainId": 1,
             "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A/logo.png",
             "decimals": 18
         },
         {
@@ -370,7 +370,7 @@
             "symbol": "DENT",
             "chainId": 1,
             "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3597bfD533a99c9aa083587B074434E61Eb0A258/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3597bfD533a99c9aa083587B074434E61Eb0A258/logo.png",
             "decimals": 8
         },
         {
@@ -378,7 +378,7 @@
             "symbol": "DEXT",
             "chainId": 1,
             "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xfB7B4564402E5500dB5bB6d63Ae671302777C75a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xfB7B4564402E5500dB5bB6d63Ae671302777C75a/logo.png",
             "decimals": 18
         },
         {
@@ -386,7 +386,7 @@
             "symbol": "DIA",
             "chainId": 1,
             "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419/logo.png",
             "decimals": 18
         },
         {
@@ -394,7 +394,7 @@
             "symbol": "DNT",
             "chainId": 1,
             "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png",
             "decimals": 18
         },
         {
@@ -402,7 +402,7 @@
             "symbol": "DPI",
             "chainId": 1,
             "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png",
             "decimals": 18
         },
         {
@@ -410,7 +410,7 @@
             "symbol": "DREP",
             "chainId": 1,
             "address": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2/logo.png",
             "decimals": 18
         },
         {
@@ -418,7 +418,7 @@
             "symbol": "DYDX",
             "chainId": 1,
             "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png",
             "decimals": 18
         },
         {
@@ -426,7 +426,7 @@
             "symbol": "DYP",
             "chainId": 1,
             "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
             "decimals": 18
         },
         {
@@ -434,7 +434,7 @@
             "symbol": "ELA",
             "chainId": 1,
             "address": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xe6fd75ff38Adca4B97FBCD938c86b98772431867/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xe6fd75ff38Adca4B97FBCD938c86b98772431867/logo.png",
             "decimals": 18
         },
         {
@@ -442,7 +442,7 @@
             "symbol": "ELON",
             "chainId": 1,
             "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png",
             "decimals": 18
         },
         {
@@ -450,7 +450,7 @@
             "symbol": "ENJ",
             "chainId": 1,
             "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png",
             "decimals": 18
         },
         {
@@ -458,7 +458,7 @@
             "symbol": "ENS",
             "chainId": 1,
             "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png",
             "decimals": 18
         },
         {
@@ -466,7 +466,7 @@
             "symbol": "ERN",
             "chainId": 1,
             "address": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xBBc2AE13b23d715c30720F079fcd9B4a74093505/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xBBc2AE13b23d715c30720F079fcd9B4a74093505/logo.png",
             "decimals": 18
         },
         {
@@ -474,7 +474,7 @@
             "symbol": "FARM",
             "chainId": 1,
             "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png",
             "decimals": 18
         },
         {
@@ -482,7 +482,7 @@
             "symbol": "FET",
             "chainId": 1,
             "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85/logo.png",
             "decimals": 18
         },
         {
@@ -490,7 +490,7 @@
             "symbol": "FIS",
             "chainId": 1,
             "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d/logo.png",
             "decimals": 18
         },
         {
@@ -498,7 +498,7 @@
             "symbol": "FORTH",
             "chainId": 1,
             "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png",
             "decimals": 18
         },
         {
@@ -506,7 +506,7 @@
             "symbol": "FOX",
             "chainId": 1,
             "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png",
             "decimals": 18
         },
         {
@@ -514,7 +514,7 @@
             "symbol": "FRAX",
             "chainId": 1,
             "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo.png",
             "decimals": 18
         },
         {
@@ -522,7 +522,7 @@
             "symbol": "FTM",
             "chainId": 1,
             "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo.png",
             "decimals": 18
         },
         {
@@ -530,7 +530,7 @@
             "symbol": "FX",
             "chainId": 1,
             "address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png",
             "decimals": 18
         },
         {
@@ -538,7 +538,7 @@
             "symbol": "FXS",
             "chainId": 1,
             "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png",
             "decimals": 18
         },
         {
@@ -546,7 +546,7 @@
             "symbol": "GALA",
             "chainId": 1,
             "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA/logo.png",
             "decimals": 8
         },
         {
@@ -554,7 +554,7 @@
             "symbol": "GFI",
             "chainId": 1,
             "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b/logo.png",
             "decimals": 18
         },
         {
@@ -562,7 +562,7 @@
             "symbol": "GHST",
             "chainId": 1,
             "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/logo.png",
             "decimals": 18
         },
         {
@@ -570,7 +570,7 @@
             "symbol": "GNO",
             "chainId": 1,
             "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
             "decimals": 18
         },
         {
@@ -578,7 +578,7 @@
             "symbol": "GRT",
             "chainId": 1,
             "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png",
             "decimals": 18
         },
         {
@@ -586,7 +586,7 @@
             "symbol": "GTC",
             "chainId": 1,
             "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png",
             "decimals": 18
         },
         {
@@ -594,7 +594,7 @@
             "symbol": "GUSD",
             "chainId": 1,
             "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png",
             "decimals": 2
         },
         {
@@ -602,7 +602,7 @@
             "symbol": "GYEN",
             "chainId": 1,
             "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xC08512927D12348F6620a698105e1BAac6EcD911/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xC08512927D12348F6620a698105e1BAac6EcD911/logo.png",
             "decimals": 6
         },
         {
@@ -610,7 +610,7 @@
             "symbol": "HIGH",
             "chainId": 1,
             "address": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x71Ab77b7dbB4fa7e017BC15090b2163221420282/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x71Ab77b7dbB4fa7e017BC15090b2163221420282/logo.png",
             "decimals": 18
         },
         {
@@ -618,7 +618,7 @@
             "symbol": "HOPR",
             "chainId": 1,
             "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png",
             "decimals": 18
         },
         {
@@ -626,7 +626,7 @@
             "symbol": "IDEX",
             "chainId": 1,
             "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE/logo.png",
             "decimals": 18
         },
         {
@@ -634,7 +634,7 @@
             "symbol": "INDEX",
             "chainId": 1,
             "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0954906da0Bf32d5479e25f46056d22f08464cab/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0954906da0Bf32d5479e25f46056d22f08464cab/logo.png",
             "decimals": 18
         },
         {
@@ -642,7 +642,7 @@
             "symbol": "INJ",
             "chainId": 1,
             "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png",
             "decimals": 18
         },
         {
@@ -650,7 +650,7 @@
             "symbol": "IOTX",
             "chainId": 1,
             "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png",
             "decimals": 18
         },
         {
@@ -658,7 +658,7 @@
             "symbol": "JASMY",
             "chainId": 1,
             "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC/logo.png",
             "decimals": 18
         },
         {
@@ -666,7 +666,7 @@
             "symbol": "JUP",
             "chainId": 1,
             "address": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png",
             "decimals": 18
         },
         {
@@ -674,7 +674,7 @@
             "symbol": "KEEP",
             "chainId": 1,
             "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png",
             "decimals": 18
         },
         {
@@ -682,7 +682,7 @@
             "symbol": "KEY",
             "chainId": 1,
             "address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4CC19356f2D37338b9802aa8E8fc58B0373296E7/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4CC19356f2D37338b9802aa8E8fc58B0373296E7/logo.png",
             "decimals": 18
         },
         {
@@ -690,7 +690,7 @@
             "symbol": "KNC",
             "chainId": 1,
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
             "decimals": 18
         },
         {
@@ -698,7 +698,7 @@
             "symbol": "KP3R",
             "chainId": 1,
             "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44/logo.png",
             "decimals": 18
         },
         {
@@ -706,7 +706,7 @@
             "symbol": "KRL",
             "chainId": 1,
             "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0/logo.png",
             "decimals": 18
         },
         {
@@ -714,7 +714,7 @@
             "symbol": "LCX",
             "chainId": 1,
             "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x037A54AaB062628C9Bbae1FDB1583c195585fe41/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x037A54AaB062628C9Bbae1FDB1583c195585fe41/logo.png",
             "decimals": 18
         },
         {
@@ -722,7 +722,7 @@
             "symbol": "LDO",
             "chainId": 1,
             "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png",
             "decimals": 18
         },
         {
@@ -730,7 +730,7 @@
             "symbol": "LINK",
             "chainId": 1,
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
             "decimals": 18
         },
         {
@@ -738,7 +738,7 @@
             "symbol": "LOOM",
             "chainId": 1,
             "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
             "decimals": 18
         },
         {
@@ -746,7 +746,7 @@
             "symbol": "LPT",
             "chainId": 1,
             "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png",
             "decimals": 18
         },
         {
@@ -754,7 +754,7 @@
             "symbol": "LQTY",
             "chainId": 1,
             "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D/logo.png",
             "decimals": 18
         },
         {
@@ -762,7 +762,7 @@
             "symbol": "LRC",
             "chainId": 1,
             "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
             "decimals": 18
         },
         {
@@ -770,7 +770,7 @@
             "symbol": "LUSD",
             "chainId": 1,
             "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png",
             "decimals": 18
         },
         {
@@ -778,7 +778,7 @@
             "symbol": "MANA",
             "chainId": 1,
             "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
             "decimals": 18
         },
         {
@@ -786,7 +786,7 @@
             "symbol": "MASK",
             "chainId": 1,
             "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png",
             "decimals": 18
         },
         {
@@ -794,7 +794,7 @@
             "symbol": "MATH",
             "chainId": 1,
             "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x08d967bb0134F2d07f7cfb6E246680c53927DD30/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x08d967bb0134F2d07f7cfb6E246680c53927DD30/logo.png",
             "decimals": 18
         },
         {
@@ -802,7 +802,7 @@
             "symbol": "MATIC",
             "chainId": 1,
             "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
             "decimals": 18
         },
         {
@@ -810,7 +810,7 @@
             "symbol": "MC",
             "chainId": 1,
             "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6/logo.png",
             "decimals": 18
         },
         {
@@ -818,7 +818,7 @@
             "symbol": "MCO2",
             "chainId": 1,
             "address": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xfC98e825A2264D890F9a1e68ed50E1526abCcacD/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xfC98e825A2264D890F9a1e68ed50E1526abCcacD/logo.png",
             "decimals": 18
         },
         {
@@ -826,7 +826,7 @@
             "symbol": "MDT",
             "chainId": 1,
             "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26/logo.png",
             "decimals": 18
         },
         {
@@ -834,7 +834,7 @@
             "symbol": "METIS",
             "chainId": 1,
             "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png",
             "decimals": 18
         },
         {
@@ -842,7 +842,7 @@
             "symbol": "MIM",
             "chainId": 1,
             "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo.png",
             "decimals": 18
         },
         {
@@ -850,7 +850,7 @@
             "symbol": "MIR",
             "chainId": 1,
             "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png",
             "decimals": 18
         },
         {
@@ -858,7 +858,7 @@
             "symbol": "MKR",
             "chainId": 1,
             "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png",
             "decimals": 18
         },
         {
@@ -866,7 +866,7 @@
             "symbol": "MLN",
             "chainId": 1,
             "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png",
             "decimals": 18
         },
         {
@@ -874,7 +874,7 @@
             "symbol": "MTL",
             "chainId": 1,
             "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xF433089366899D83a9f26A773D59ec7eCF30355e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xF433089366899D83a9f26A773D59ec7eCF30355e/logo.png",
             "decimals": 8
         },
         {
@@ -882,7 +882,7 @@
             "symbol": "MUSD",
             "chainId": 1,
             "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5/logo.png",
             "decimals": 18
         },
         {
@@ -890,7 +890,7 @@
             "symbol": "MXC",
             "chainId": 1,
             "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png",
             "decimals": 18
         },
         {
@@ -898,7 +898,7 @@
             "symbol": "NCT",
             "chainId": 1,
             "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1/logo.png",
             "decimals": 18
         },
         {
@@ -906,7 +906,7 @@
             "symbol": "NKN",
             "chainId": 1,
             "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png",
             "decimals": 18
         },
         {
@@ -914,7 +914,7 @@
             "symbol": "NMR",
             "chainId": 1,
             "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png",
             "decimals": 18
         },
         {
@@ -922,7 +922,7 @@
             "symbol": "NU",
             "chainId": 1,
             "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc/logo.png",
             "decimals": 18
         },
         {
@@ -930,7 +930,7 @@
             "symbol": "OCEAN",
             "chainId": 1,
             "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png",
             "decimals": 18
         },
         {
@@ -938,7 +938,7 @@
             "symbol": "OGN",
             "chainId": 1,
             "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png",
             "decimals": 18
         },
         {
@@ -946,7 +946,7 @@
             "symbol": "OMG",
             "chainId": 1,
             "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png",
             "decimals": 18
         },
         {
@@ -954,7 +954,7 @@
             "symbol": "ORN",
             "chainId": 1,
             "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a/logo.png",
             "decimals": 8
         },
         {
@@ -962,7 +962,7 @@
             "symbol": "OXT",
             "chainId": 1,
             "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
             "decimals": 18
         },
         {
@@ -970,7 +970,7 @@
             "symbol": "PAXG",
             "chainId": 1,
             "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png",
             "decimals": 18
         },
         {
@@ -978,7 +978,7 @@
             "symbol": "PERP",
             "chainId": 1,
             "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png",
             "decimals": 18
         },
         {
@@ -986,7 +986,7 @@
             "symbol": "PLU",
             "chainId": 1,
             "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xD8912C10681D8B21Fd3742244f44658dBA12264E/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xD8912C10681D8B21Fd3742244f44658dBA12264E/logo.png",
             "decimals": 18
         },
         {
@@ -994,7 +994,7 @@
             "symbol": "POLS",
             "chainId": 1,
             "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa/logo.png",
             "decimals": 18
         },
         {
@@ -1002,7 +1002,7 @@
             "symbol": "POLY",
             "chainId": 1,
             "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png",
             "decimals": 18
         },
         {
@@ -1010,7 +1010,7 @@
             "symbol": "POND",
             "chainId": 1,
             "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png",
             "decimals": 18
         },
         {
@@ -1018,7 +1018,7 @@
             "symbol": "POWR",
             "chainId": 1,
             "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png",
             "decimals": 6
         },
         {
@@ -1026,7 +1026,7 @@
             "symbol": "PRO",
             "chainId": 1,
             "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x226bb599a12C826476e3A771454697EA52E9E220/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x226bb599a12C826476e3A771454697EA52E9E220/logo.png",
             "decimals": 8
         },
         {
@@ -1034,7 +1034,7 @@
             "symbol": "PRQ",
             "chainId": 1,
             "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x362bc847A3a9637d3af6624EeC853618a43ed7D2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x362bc847A3a9637d3af6624EeC853618a43ed7D2/logo.png",
             "decimals": 18
         },
         {
@@ -1042,7 +1042,7 @@
             "symbol": "QNT",
             "chainId": 1,
             "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4a220E6096B25EADb88358cb44068A3248254675/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4a220E6096B25EADb88358cb44068A3248254675/logo.png",
             "decimals": 18
         },
         {
@@ -1050,7 +1050,7 @@
             "symbol": "QRDO",
             "chainId": 1,
             "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4123a133ae3c521FD134D7b13A2dEC35b56c2463/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4123a133ae3c521FD134D7b13A2dEC35b56c2463/logo.png",
             "decimals": 8
         },
         {
@@ -1058,7 +1058,7 @@
             "symbol": "QSP",
             "chainId": 1,
             "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d/logo.png",
             "decimals": 18
         },
         {
@@ -1066,7 +1066,7 @@
             "symbol": "QUICK",
             "chainId": 1,
             "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f/logo.png",
             "decimals": 18
         },
         {
@@ -1074,7 +1074,7 @@
             "symbol": "RAD",
             "chainId": 1,
             "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3/logo.png",
             "decimals": 18
         },
         {
@@ -1082,7 +1082,7 @@
             "symbol": "RAI",
             "chainId": 1,
             "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png",
             "decimals": 18
         },
         {
@@ -1090,7 +1090,7 @@
             "symbol": "RARI",
             "chainId": 1,
             "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png",
             "decimals": 18
         },
         {
@@ -1098,7 +1098,7 @@
             "symbol": "RBC",
             "chainId": 1,
             "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3/logo.png",
             "decimals": 18
         },
         {
@@ -1106,7 +1106,7 @@
             "symbol": "REN",
             "chainId": 1,
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
             "decimals": 18
         },
         {
@@ -1114,7 +1114,7 @@
             "symbol": "REP",
             "chainId": 1,
             "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1985365e9f78359a9B6AD760e32412f4a445E862/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1985365e9f78359a9B6AD760e32412f4a445E862/logo.png",
             "decimals": 18
         },
         {
@@ -1122,7 +1122,7 @@
             "symbol": "REPv2",
             "chainId": 1,
             "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png",
             "decimals": 18
         },
         {
@@ -1130,7 +1130,7 @@
             "symbol": "REQ",
             "chainId": 1,
             "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8f8221aFbB33998d8584A2B05749bA73c37a938a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8f8221aFbB33998d8584A2B05749bA73c37a938a/logo.png",
             "decimals": 18
         },
         {
@@ -1138,7 +1138,7 @@
             "symbol": "REVV",
             "chainId": 1,
             "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png",
             "decimals": 18
         },
         {
@@ -1146,7 +1146,7 @@
             "symbol": "RGT",
             "chainId": 1,
             "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xD291E7a03283640FDc51b121aC401383A46cC623/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xD291E7a03283640FDc51b121aC401383A46cC623/logo.png",
             "decimals": 18
         },
         {
@@ -1154,7 +1154,7 @@
             "symbol": "RLC",
             "chainId": 1,
             "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png",
             "decimals": 9
         },
         {
@@ -1162,7 +1162,7 @@
             "symbol": "RLY",
             "chainId": 1,
             "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b/logo.png",
             "decimals": 18
         },
         {
@@ -1170,7 +1170,7 @@
             "symbol": "RNDR",
             "chainId": 1,
             "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png",
             "decimals": 18
         },
         {
@@ -1178,7 +1178,7 @@
             "symbol": "ROOK",
             "chainId": 1,
             "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png",
             "decimals": 18
         },
         {
@@ -1186,7 +1186,7 @@
             "symbol": "SAND",
             "chainId": 1,
             "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png",
             "decimals": 18
         },
         {
@@ -1194,7 +1194,7 @@
             "symbol": "SHIB",
             "chainId": 1,
             "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png",
             "decimals": 18
         },
         {
@@ -1202,7 +1202,7 @@
             "symbol": "SHPING",
             "chainId": 1,
             "address": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC/logo.png",
             "decimals": 18
         },
         {
@@ -1210,7 +1210,7 @@
             "symbol": "SKL",
             "chainId": 1,
             "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png",
             "decimals": 18
         },
         {
@@ -1218,7 +1218,7 @@
             "symbol": "SLP",
             "chainId": 1,
             "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25/logo.png",
             "decimals": 0
         },
         {
@@ -1226,7 +1226,7 @@
             "symbol": "SNT",
             "chainId": 1,
             "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E/logo.png",
             "decimals": 18
         },
         {
@@ -1234,7 +1234,7 @@
             "symbol": "SNX",
             "chainId": 1,
             "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
             "decimals": 18
         },
         {
@@ -1242,7 +1242,7 @@
             "symbol": "SOCKS",
             "chainId": 1,
             "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5/logo.png",
             "decimals": 18
         },
         {
@@ -1250,7 +1250,7 @@
             "symbol": "SOL",
             "chainId": 1,
             "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xD31a59c85aE9D8edEFeC411D448f90841571b89c/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xD31a59c85aE9D8edEFeC411D448f90841571b89c/logo.png",
             "decimals": 9
         },
         {
@@ -1258,7 +1258,7 @@
             "symbol": "SPELL",
             "chainId": 1,
             "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png",
             "decimals": 18
         },
         {
@@ -1266,7 +1266,7 @@
             "symbol": "STG",
             "chainId": 1,
             "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6/logo.png",
             "decimals": 18
         },
         {
@@ -1274,7 +1274,7 @@
             "symbol": "STORJ",
             "chainId": 1,
             "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png",
             "decimals": 8
         },
         {
@@ -1282,7 +1282,7 @@
             "symbol": "STX",
             "chainId": 1,
             "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45/logo.png",
             "decimals": 18
         },
         {
@@ -1290,7 +1290,7 @@
             "symbol": "SUKU",
             "chainId": 1,
             "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png",
             "decimals": 18
         },
         {
@@ -1298,7 +1298,7 @@
             "symbol": "SUPER",
             "chainId": 1,
             "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55/logo.png",
             "decimals": 18
         },
         {
@@ -1306,7 +1306,7 @@
             "symbol": "sUSD",
             "chainId": 1,
             "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png",
             "decimals": 18
         },
         {
@@ -1314,7 +1314,7 @@
             "symbol": "SUSHI",
             "chainId": 1,
             "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
             "decimals": 18
         },
         {
@@ -1322,7 +1322,7 @@
             "symbol": "SWFTC",
             "chainId": 1,
             "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e/logo.png",
             "decimals": 8
         },
         {
@@ -1330,7 +1330,7 @@
             "symbol": "SXP",
             "chainId": 1,
             "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png",
             "decimals": 18
         },
         {
@@ -1338,7 +1338,7 @@
             "symbol": "TBTC",
             "chainId": 1,
             "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png",
             "decimals": 18
         },
         {
@@ -1346,7 +1346,7 @@
             "symbol": "TIME",
             "chainId": 1,
             "address": "0x485d17A6f1B8780392d53D64751824253011A260",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x485d17A6f1B8780392d53D64751824253011A260/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x485d17A6f1B8780392d53D64751824253011A260/logo.png",
             "decimals": 8
         },
         {
@@ -1354,7 +1354,7 @@
             "symbol": "TLM",
             "chainId": 1,
             "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72/logo.png",
             "decimals": 4
         },
         {
@@ -1362,7 +1362,7 @@
             "symbol": "TONE",
             "chainId": 1,
             "address": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4/logo.png",
             "decimals": 18
         },
         {
@@ -1370,7 +1370,7 @@
             "symbol": "TRAC",
             "chainId": 1,
             "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F/logo.png",
             "decimals": 18
         },
         {
@@ -1378,7 +1378,7 @@
             "symbol": "TRB",
             "chainId": 1,
             "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png",
             "decimals": 18
         },
         {
@@ -1386,7 +1386,7 @@
             "symbol": "TRIBE",
             "chainId": 1,
             "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png",
             "decimals": 18
         },
         {
@@ -1394,7 +1394,7 @@
             "symbol": "TRU",
             "chainId": 1,
             "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784/logo.png",
             "decimals": 8
         },
         {
@@ -1402,7 +1402,7 @@
             "symbol": "TVK",
             "chainId": 1,
             "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988/logo.png",
             "decimals": 18
         },
         {
@@ -1410,7 +1410,7 @@
             "symbol": "UMA",
             "chainId": 1,
             "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
             "decimals": 18
         },
         {
@@ -1418,7 +1418,7 @@
             "symbol": "UNI",
             "chainId": 1,
             "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
             "decimals": 18
         },
         {
@@ -1426,7 +1426,7 @@
             "symbol": "USDC",
             "chainId": 1,
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
             "decimals": 6
         },
         {
@@ -1434,7 +1434,7 @@
             "symbol": "USDT",
             "chainId": 1,
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
             "decimals": 6
         },
         {
@@ -1442,7 +1442,7 @@
             "symbol": "VGX",
             "chainId": 1,
             "address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d/logo.png",
             "decimals": 8
         },
         {
@@ -1450,7 +1450,7 @@
             "symbol": "WBTC",
             "chainId": 1,
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
             "decimals": 8
         },
         {
@@ -1458,7 +1458,7 @@
             "symbol": "WETH",
             "chainId": 1,
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
             "decimals": 18
         },
         {
@@ -1466,7 +1466,7 @@
             "symbol": "WOO",
             "chainId": 1,
             "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png",
             "decimals": 18
         },
         {
@@ -1474,7 +1474,7 @@
             "symbol": "XCN",
             "chainId": 1,
             "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18/logo.png",
             "decimals": 18
         },
         {
@@ -1482,7 +1482,7 @@
             "symbol": "XYO",
             "chainId": 1,
             "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png",
             "decimals": 18
         },
         {
@@ -1490,7 +1490,7 @@
             "symbol": "YFI",
             "chainId": 1,
             "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
             "decimals": 18
         },
         {
@@ -1498,7 +1498,7 @@
             "symbol": "YFII",
             "chainId": 1,
             "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83/logo.png",
             "decimals": 18
         },
         {
@@ -1506,7 +1506,7 @@
             "symbol": "YGG",
             "chainId": 1,
             "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png",
             "decimals": 18
         },
         {
@@ -1514,7 +1514,7 @@
             "symbol": "ZRX",
             "chainId": 1,
             "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-            "logoURI": "https://assets.aufwallet.com/chains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
+            "logoURI": "https://assets.aufwallet.com/chains/1/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
             "decimals": 18
         }
     ]

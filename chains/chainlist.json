@@ -6,8 +6,8 @@
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "logoURI": "https://assets.aufwallet.com/chains/ethereum/info/logo.png",
-      "chainId": 1,
+      "logoURI": "https://assets.aufwallet.com/chains/1/info/logo.png",
+      "chainId": "1",
       "explorer": "https://etherscan.io",
       "rpcUrls": [
         "https://eth-rpc.gateway.pokt.network",
@@ -23,8 +23,8 @@
     {
       "name": "Binance",
       "symbol": "BNB",
-      "logoURI": "https://assets.aufwallet.com/chains/binance/info/logo.png",
-      "chainId": 56,
+      "logoURI": "https://assets.aufwallet.com/chains/56/info/logo.png",
+      "chainId": "56",
       "explorer": "https://bscscan.com",
       "rpcUrls": [
         "https://bsc.mytokenpocket.vip",
@@ -40,8 +40,8 @@
     {
       "name": "Polygon",
       "symbol": "MATIC",
-      "logoURI": "https://assets.aufwallet.com/chains/polygon/info/logo.png",
-      "chainId": 137,
+      "logoURI": "https://assets.aufwallet.com/chains/137/info/logo.png",
+      "chainId": "137",
       "explorer": "https://polygonscan.com",
       "rpcUrls": [
         "https://poly-rpc.gateway.pokt.network",
@@ -60,8 +60,8 @@
     {
       "name": "Fantom",
       "symbol": "FTM",
-      "logoURI": "https://assets.aufwallet.com/chains/fantom/info/logo.png",
-      "chainId": 250,
+      "logoURI": "https://assets.aufwallet.com/chains/250/info/logo.png",
+      "chainId": "250",
       "explorer": "https://ftmscan.com",
       "rpcUrls": [
         "https://fantom-mainnet.gateway.pokt.network/v1/lb/62759259ea1b320039c9e7ac",
@@ -79,8 +79,8 @@
     {
       "name": "Avalanche",
       "symbol": "AVAX",
-      "logoURI": "https://assets.aufwallet.com/chains/avalanche/info/logo.png",
-      "chainId": 43114,
+      "logoURI": "https://assets.aufwallet.com/chains/43114/info/logo.png",
+      "chainId": "43114",
       "explorer": "https://snowtrace.io",
       "rpcUrls": [
         "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc",
@@ -96,8 +96,8 @@
     {
       "name": "Arbitrum",
       "symbol": "ETH",
-      "logoURI": "https://assets.aufwallet.com/chains/arbitrum/info/logo.png",
-      "chainId": 42161,
+      "logoURI": "https://assets.aufwallet.com/chains/42161/info/logo.png",
+      "chainId": "42161",
       "explorer": "https://arbiscan.io",
       "rpcUrls": [
         "https://arb1.arbitrum.io/rpc"
@@ -110,8 +110,8 @@
     {
       "name": "Optimism",
       "symbol": "OP",
-      "logoURI": "https://assets.aufwallet.com/chains/optimism/info/logo.png",
-      "chainId": 10,
+      "logoURI": "https://assets.aufwallet.com/chains/10/info/logo.png",
+      "chainId": "10",
       "explorer": "https://optimistic.etherscan.io",
       "rpcUrls": [
         "https://mainnet.optimism.io",
@@ -127,8 +127,8 @@
     {
       "name": "Heco",
       "symbol": "HT",
-      "logoURI": "https://assets.aufwallet.com/chains/heco/info/logo.png",
-      "chainId": 128,
+      "logoURI": "https://assets.aufwallet.com/chains/128/info/logo.png",
+      "chainId": "128",
       "explorer": "https://www.hecoinfo.com",
       "rpcUrls": [
         "wss://ws-mainnet.hecochain.com",
@@ -142,8 +142,8 @@
     {
       "name": "OKXChain",
       "symbol": "OKT",
-      "logoURI": "https://assets.aufwallet.com/chains/okxchain/info/logo.png",
-      "chainId": 66,
+      "logoURI": "https://assets.aufwallet.com/chains/66/info/logo.png",
+      "chainId": "66",
       "explorer": "https://www.oklink.com/okexchain",
       "rpcUrls": [
         "https://exchainrpc.okex.org"

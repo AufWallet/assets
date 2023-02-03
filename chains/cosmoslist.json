@@ -8,8 +8,7 @@
       "symbol": "ATOM",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/cosmoshub-4/info/logo.png",
-      "chainId": 0,
-      "chainSid": "cosmoshub-4",
+      "chainId": "cosmoshub-4",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/cosmos",
       "rpcUrls": [
@@ -32,8 +31,7 @@
       "symbol": "OSMO",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/osmosis-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "osmosis-1",
+      "chainId": "osmosis-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/osmosis",
       "rpcUrls": [
@@ -59,8 +57,7 @@
       "symbol": "SCRT",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/secret-4/info/logo.png",
-      "chainId": 0,
-      "chainSid": "secret-4",
+      "chainId": "secret-4",
       "coinType": 529,
       "explorer": "https://www.mintscan.io/secret",
       "rpcUrls": [
@@ -84,8 +81,7 @@
       "symbol": "AKT",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/akashnet-2/info/logo.png",
-      "chainId": 0,
-      "chainSid": "akashnet-2",
+      "chainId": "akashnet-2",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/akash",
       "rpcUrls": [
@@ -107,8 +103,7 @@
       "symbol": "CRO",
       "decimals": 8,
       "logoURI": "https://assets.aufwallet.com/chains/crypto-org-chain-mainnet-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "crypto-org-chain-mainnet-1",
+      "chainId": "crypto-org-chain-mainnet-1",
       "coinType": 394,
       "explorer": "https://www.mintscan.io/crypto-org",
       "rpcUrls": [
@@ -130,8 +125,7 @@
       "symbol": "IOV",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/iov-mainnet-ibc/info/logo.png",
-      "chainId": 0,
-      "chainSid": "iov-mainnet-ibc",
+      "chainId": "iov-mainnet-ibc",
       "coinType": 234,
       "explorer": "https://www.mintscan.io/starname",
       "rpcUrls": [
@@ -153,8 +147,7 @@
       "symbol": "ROWAN",
       "decimals": 18,
       "logoURI": "https://assets.aufwallet.com/chains/sifchain-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "sifchain-1",
+      "chainId": "sifchain-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sifchain",
       "rpcUrls": [
@@ -174,8 +167,7 @@
       "symbol": "CTK",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/shentu-2.2/info/logo.png",
-      "chainId": 0,
-      "chainSid": "shentu-2.2",
+      "chainId": "shentu-2.2",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/shentu",
       "rpcUrls": [
@@ -198,8 +190,7 @@
       "symbol": "IRIS",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/irishub-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "irishub-1",
+      "chainId": "irishub-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/iris",
       "rpcUrls": [
@@ -222,8 +213,7 @@
       "symbol": "REGEN",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/regen-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "regen-1",
+      "chainId": "regen-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/regen",
       "rpcUrls": [
@@ -246,8 +236,7 @@
       "symbol": "XPRT",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/core-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "core-1",
+      "chainId": "core-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/persistence",
       "rpcUrls": [
@@ -270,8 +259,7 @@
       "symbol": "DVPN",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/sentinelhub-2/info/logo.png",
-      "chainId": 0,
-      "chainSid": "sentinelhub-2",
+      "chainId": "sentinelhub-2",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sentinel",
       "rpcUrls": [
@@ -293,8 +281,7 @@
       "symbol": "IXO",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/ixo-4/info/logo.png",
-      "chainId": 0,
-      "chainSid": "ixo-4",
+      "chainId": "ixo-4",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/ixo",
       "rpcUrls": [
@@ -315,8 +302,7 @@
       "symbol": "NGM",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/emoney-3/info/logo.png",
-      "chainId": 0,
-      "chainSid": "emoney-3",
+      "chainId": "emoney-3",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/emoney",
       "rpcUrls": [
@@ -338,8 +324,7 @@
       "symbol": "BLD",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/agoric-3/info/logo.png",
-      "chainId": 0,
-      "chainSid": "agoric-3",
+      "chainId": "agoric-3",
       "coinType": 564,
       "explorer": "https://agoric.bigdipper.live/",
       "rpcUrls": [
@@ -361,8 +346,7 @@
       "symbol": "JUNO",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/juno-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "juno-1",
+      "chainId": "juno-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/juno",
       "rpcUrls": [
@@ -387,8 +371,7 @@
       "symbol": "STARS",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/stargaze-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "stargaze-1",
+      "chainId": "stargaze-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/stargaze",
       "rpcUrls": [
@@ -411,8 +394,7 @@
       "symbol": "AXL",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/axelar-dojo-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "axelar-dojo-1",
+      "chainId": "axelar-dojo-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/axelar",
       "rpcUrls": [
@@ -436,8 +418,7 @@
       "symbol": "SOMM",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/sommelier-3/info/logo.png",
-      "chainId": 0,
-      "chainSid": "sommelier-3",
+      "chainId": "sommelier-3",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sommelier",
       "rpcUrls": [
@@ -460,8 +441,7 @@
       "symbol": "UMEE",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/umee-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "umee-1",
+      "chainId": "umee-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/umee",
       "rpcUrls": [
@@ -483,8 +463,7 @@
       "symbol": "GRAV",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/gravity-bridge-3/info/logo.png",
-      "chainId": 0,
-      "chainSid": "gravity-bridge-3",
+      "chainId": "gravity-bridge-3",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/gravity-bridge",
       "rpcUrls": [
@@ -506,8 +485,7 @@
       "symbol": "TGD",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/tgrade-mainnet-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "tgrade-mainnet-1",
+      "chainId": "tgrade-mainnet-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/tgrade",
       "rpcUrls": [
@@ -531,8 +509,7 @@
       "symbol": "STRD",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/stride-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "stride-1",
+      "chainId": "stride-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/stride",
       "rpcUrls": [
@@ -555,8 +532,7 @@
       "symbol": "EVMOS",
       "decimals": 18,
       "logoURI": "https://assets.aufwallet.com/chains/evmos_9001-2/info/logo.png",
-      "chainId": 0,
-      "chainSid": "evmos_9001-2",
+      "chainId": "evmos_9001-2",
       "coinType": 60,
       "explorer": "https://www.mintscan.io/evmos",
       "rpcUrls": [
@@ -581,8 +557,7 @@
       "symbol": "INJ",
       "decimals": 18,
       "logoURI": "https://assets.aufwallet.com/chains/injective-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "injective-1",
+      "chainId": "injective-1",
       "coinType": 60,
       "explorer": "https://www.mintscan.io/injective",
       "rpcUrls": [
@@ -607,8 +582,7 @@
       "symbol": "KAVA",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/kava_2222-10/info/logo.png",
-      "chainId": 0,
-      "chainSid": "kava_2222-10",
+      "chainId": "kava_2222-10",
       "coinType": 459,
       "explorer": "https://www.mintscan.io/kava",
       "rpcUrls": [
@@ -627,8 +601,7 @@
       "symbol": "QCK",
       "decimals": 6,
       "logoURI": "https://assets.aufwallet.com/chains/quicksilver-1/info/logo.png",
-      "chainId": 0,
-      "chainSid": "quicksilver-1",
+      "chainId": "quicksilver-1",
       "coinType": 118,
       "explorer": "https://www.mintscan.io/quicksilver",
       "rpcUrls": [
