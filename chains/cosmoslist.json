@@ -12,14 +12,18 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/cosmos",
       "rpcUrls": [
-        "https://rpc-cosmoshub.keplr.app"
+        "https://grpc-cosmoshub-ia.cosmosia.notional.ventures",
+        "http://cosmos-grpc.polkachu.com:14990",
+        "https://grpc.cosmos.interbloc.org",
+        "https://grpc.cosmos.dragonstake.io",
+        "https://cosmoshub.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "cosmos",
       "chainType": 1,
-      "multicall": "https://lcd-cosmoshub.keplr.app",
+      "multicall": "https://rpc.cosmoshub.strange.love",
       "priceId": "cosmos",
       "features": [
         "ibc-transfer",
@@ -35,14 +39,17 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/osmosis",
       "rpcUrls": [
-        "https://rpc-osmosis.keplr.app"
+        "https://osmosis-grpc.lavenderfive.com:443",
+        "https://grpc-osmosis-ia.cosmosia.notional.ventures:443",
+        "http://osmosis-grpc.polkachu.com:12590",
+        "https://osmosis.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "osmo",
       "chainType": 1,
-      "multicall": "https://lcd-osmosis.keplr.app",
+      "multicall": "https://rpc.osmosis.goldenratiostaking.net",
       "priceId": "osmosis",
       "features": [
         "ibc-transfer",
@@ -61,14 +68,14 @@
       "coinType": 529,
       "explorer": "https://www.mintscan.io/secret",
       "rpcUrls": [
-        "https://rpc-secret.keplr.app"
+        "https://secret-grpc.lavenderfive.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "secret",
       "chainType": 1,
-      "multicall": "https://lcd-secret.keplr.app",
+      "multicall": "https://rpc-secret.whispernode.com",
       "priceId": "secret",
       "features": [
         "secretwasm",
@@ -85,14 +92,17 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/akash",
       "rpcUrls": [
-        "https://rpc-akash.keplr.app"
+        "https://grpc-akash-ia.cosmosia.notional.ventures:443",
+        "https://akash-grpc.lavenderfive.com:443",
+        "http://akash-grpc.polkachu.com:12890",
+        "https://akash.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "akash",
       "chainType": 1,
-      "multicall": "https://lcd-akash.keplr.app",
+      "multicall": "https://akash-rpc.polkachu.com",
       "priceId": "akash-network",
       "features": [
         "ibc-transfer"
@@ -107,14 +117,14 @@
       "coinType": 394,
       "explorer": "https://www.mintscan.io/crypto-org",
       "rpcUrls": [
-        "https://rpc-crypto-org.keplr.app"
+        "https://grpc-cryptoorgchain-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "cro",
       "chainType": 1,
-      "multicall": "https://lcd-crypto-org.keplr.app",
+      "multicall": "https://rpc.cronos.org",
       "priceId": "crypto-com-chain",
       "features": [
         "ibc-transfer"
@@ -129,14 +139,14 @@
       "coinType": 234,
       "explorer": "https://www.mintscan.io/starname",
       "rpcUrls": [
-        "https://rpc-iov.keplr.app"
+        "https://grpc-starname-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "star",
       "chainType": 1,
-      "multicall": "https://lcd-iov.keplr.app",
+      "multicall": "https://rpc-starname-ia.cosmosia.notional.ventures",
       "priceId": "starname",
       "features": [
         "ibc-transfer"
@@ -151,14 +161,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sifchain",
       "rpcUrls": [
-        "https://rpc-sifchain.keplr.app"
+        "https://grpc-sifchain-ia.cosmosia.notional.ventures:443",
+        "http://sifchain-grpc.polkachu.com:13290"
       ],
       "encoders": [
         1
       ],
       "hrp": "sif",
       "chainType": 1,
-      "multicall": "https://lcd-sifchain.keplr.app",
+      "multicall": "https://sifchain-rpc.polkachu.com",
       "priceId": "sifchain",
       "features": []
     },
@@ -171,14 +182,14 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/shentu",
       "rpcUrls": [
-        "https://rpc-certik.keplr.app"
+        "http://certik-grpc.polkachu.com:14090"
       ],
       "encoders": [
         1
       ],
       "hrp": "certik",
       "chainType": 1,
-      "multicall": "https://lcd-certik.keplr.app",
+      "multicall": "https://certik-rpc.polkachu.com",
       "priceId": "certik",
       "features": [
         "ibc-transfer",
@@ -194,14 +205,14 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/iris",
       "rpcUrls": [
-        "https://rpc-iris.keplr.app"
+        "https://grpc-irisnet-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "iaa",
       "chainType": 1,
-      "multicall": "https://lcd-iris.keplr.app",
+      "multicall": "https://rpc-irisnet-ia.cosmosia.notional.ventures",
       "priceId": "iris-network",
       "features": [
         "ibc-transfer",
@@ -217,14 +228,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/regen",
       "rpcUrls": [
-        "https://rpc-regen.keplr.app"
+        "https://regen.stakesystems.io:2083",
+        "https://grpc-regen-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "regen",
       "chainType": 1,
-      "multicall": "https://lcd-regen.keplr.app",
+      "multicall": "http://public-rpc.regen.vitwit.com:26657",
       "priceId": "regen",
       "features": [
         "ibc-go",
@@ -240,14 +252,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/persistence",
       "rpcUrls": [
-        "https://rpc-persistence.keplr.app"
+        "https://grpc.core.persistence.one:443",
+        "https://grpc-persistent-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "persistence",
       "chainType": 1,
-      "multicall": "https://lcd-persistence.keplr.app",
+      "multicall": "https://rpc.core.persistence.one",
       "priceId": "persistence",
       "features": [
         "ibc-transfer",
@@ -263,14 +276,14 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sentinel",
       "rpcUrls": [
-        "https://rpc-sentinel.keplr.app"
+        "https://grpc-sentinel-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "sent",
       "chainType": 1,
-      "multicall": "https://lcd-sentinel.keplr.app",
+      "multicall": "https://rpc-sentinel.whispernode.com",
       "priceId": "sentinel",
       "features": [
         "ibc-transfer"
@@ -285,14 +298,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/ixo",
       "rpcUrls": [
-        "https://rpc-ixo.keplr.app"
+        "https://grpc-ixo-ia.cosmosia.notional.ventures:443",
+        "https://impacthub-grpc.lavenderfive.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "ixo",
       "chainType": 1,
-      "multicall": "https://lcd-ixo.keplr.app",
+      "multicall": "https://impacthub.ixo.world/rpc",
       "features": [
         "ibc-transfer"
       ]
@@ -306,14 +320,14 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/emoney",
       "rpcUrls": [
-        "https://rpc-emoney.keplr.app"
+        "https://grpc-emoney-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "emoney",
       "chainType": 1,
-      "multicall": "https://lcd-emoney.keplr.app",
+      "multicall": "https://emoney.validator.network",
       "priceId": "e-money",
       "features": [
         "ibc-transfer"
@@ -328,14 +342,14 @@
       "coinType": 564,
       "explorer": "https://agoric.bigdipper.live/",
       "rpcUrls": [
-        "https://rpc-agoric.keplr.app"
+        "https://grpc.agoric.nodestake.top"
       ],
       "encoders": [
         1
       ],
       "hrp": "agoric",
       "chainType": 1,
-      "multicall": "https://lcd-agoric.keplr.app",
+      "multicall": "https://agoric-mainnet-archive-germany.allthatnode.com",
       "priceId": "agoric",
       "features": [
         "ibc-go"
@@ -350,14 +364,20 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/juno",
       "rpcUrls": [
-        "https://rpc-juno.keplr.app"
+        "https://grpc-juno-ia.cosmosia.notional.ventures:443",
+        "https://juno-grpc.lavenderfive.com:443",
+        "http://juno-grpc.polkachu.com:12690",
+        "https://juno.grpc.interchain.ivaldilabs.xyz:443",
+        "https://juno.grpc.stakin-nodes.com:443",
+        "https://grpc.juno.kingnodes.com",
+        "http://juno.grpc.stakeandrelax.net:12690"
       ],
       "encoders": [
         1
       ],
       "hrp": "juno",
       "chainType": 1,
-      "multicall": "https://lcd-juno.keplr.app",
+      "multicall": "https://rpc-juno.goldenratiostaking.net",
       "priceId": "juno-network",
       "features": [
         "cosmwasm",
@@ -375,14 +395,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/stargaze",
       "rpcUrls": [
-        "https://rpc-stargaze.keplr.app"
+        "https://grpc-stargaze-ia.cosmosia.notional.ventures:443",
+        "http://stargaze-grpc.polkachu.com:13790"
       ],
       "encoders": [
         1
       ],
       "hrp": "stars",
       "chainType": 1,
-      "multicall": "https://lcd-stargaze.keplr.app",
+      "multicall": "https://stargaze-rpc.polkachu.com",
       "priceId": "stargaze",
       "features": [
         "ibc-transfer",
@@ -398,14 +419,19 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/axelar",
       "rpcUrls": [
-        "https://rpc-axelar.keplr.app"
+        "http://axelar-grpc.qubelabs.io:9092",
+        "http://axelar-grpc.quantnode.tech:9090",
+        "http://services.staketab.com:9080",
+        "https://grpc-axelar-ia.cosmosia.notional.ventures:443",
+        "https://axelar.grpc.interchain.ivaldilabs.xyz:443",
+        "https://axelar.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "axelar",
       "chainType": 1,
-      "multicall": "https://lcd-axelar.keplr.app",
+      "multicall": "https://rpc-axelar.whispernode.com",
       "priceId": "axelar",
       "features": [
         "ibc-transfer",
@@ -422,14 +448,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/sommelier",
       "rpcUrls": [
-        "https://rpc-sommelier.keplr.app"
+        "http://sommelier-grpc.polkachu.com:14190",
+        "https://sommelier-grpc.lavenderfive.com"
       ],
       "encoders": [
         1
       ],
       "hrp": "somm",
       "chainType": 1,
-      "multicall": "https://lcd-sommelier.keplr.app",
+      "multicall": "https://sommelier-rpc.polkachu.com",
       "priceId": "sommelier",
       "features": [
         "ibc-transfer",
@@ -445,14 +472,14 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/umee",
       "rpcUrls": [
-        "https://rpc-umee.keplr.app"
+        "https://grpc-umee-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "umee",
       "chainType": 1,
-      "multicall": "https://lcd-umee.keplr.app",
+      "multicall": "https://umee-rpc.polkachu.com",
       "features": [
         "ibc-transfer",
         "ibc-go"
@@ -467,41 +494,20 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/gravity-bridge",
       "rpcUrls": [
-        "https://rpc-gravity-bridge.keplr.app"
+        "http://gravitychain.io:9090",
+        "http://gravity-bridge-1-08.nodes.amhost.net:9090",
+        "https://grpc-gravitybridge-ia.cosmosia.notional.ventures:443",
+        "https://gravitybridge-grpc.lavenderfive.com"
       ],
       "encoders": [
         1
       ],
       "hrp": "gravity",
       "chainType": 1,
-      "multicall": "https://lcd-gravity-bridge.keplr.app",
+      "multicall": "https://gravitychain.io:26657",
       "features": [
         "ibc-transfer",
         "ibc-go"
-      ]
-    },
-    {
-      "name": "Tgrade",
-      "symbol": "TGD",
-      "decimals": 6,
-      "logoURI": "https://assets.aufwallet.com/chains/tgrade-mainnet-1/info/logo.png",
-      "chainId": "tgrade-mainnet-1",
-      "coinType": 118,
-      "explorer": "https://www.mintscan.io/tgrade",
-      "rpcUrls": [
-        "https://rpc-tgrade.keplr.app"
-      ],
-      "encoders": [
-        1
-      ],
-      "hrp": "tgrade",
-      "chainType": 1,
-      "multicall": "https://lcd-tgrade.keplr.app",
-      "features": [
-        "cosmwasm",
-        "ibc-transfer",
-        "ibc-go",
-        "wasmd_0.24+"
       ]
     },
     {
@@ -513,14 +519,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/stride",
       "rpcUrls": [
-        "https://rpc-stride.keplr.app"
+        "https://stride-grpc.lavenderfive.com:443",
+        "https://stride.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "stride",
       "chainType": 1,
-      "multicall": "https://lcd-stride.keplr.app",
+      "multicall": "https://stride.rpc.chandrastation.com",
       "priceId": "stride",
       "features": [
         "ibc-transfer",
@@ -536,14 +543,17 @@
       "coinType": 60,
       "explorer": "https://www.mintscan.io/evmos",
       "rpcUrls": [
-        "https://rpc-evmos.keplr.app"
+        "https://grpc.evmos.kingnodes.com",
+        "https://grpc-evmos-ia.cosmosia.notional.ventures:443",
+        "https://evmos-grpc.lavenderfive.com:443",
+        "https://evmos.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "evmos",
       "chainType": 1,
-      "multicall": "https://lcd-evmos.keplr.app",
+      "multicall": "https://rpc-evmos.goldenratiostaking.net",
       "priceId": "evmos",
       "features": [
         "ibc-transfer",
@@ -561,14 +571,17 @@
       "coinType": 60,
       "explorer": "https://www.mintscan.io/injective",
       "rpcUrls": [
-        "https://rpc-injective.keplr.app"
+        "https://k8s.global.mainnet.chain.grpc.injective.network:443",
+        "https://grpc-injective-ia.cosmosia.notional.ventures:443",
+        "https://injective-grpc.lavenderfive.com:443",
+        "http://injective-grpc.polkachu.com:14390"
       ],
       "encoders": [
         1
       ],
       "hrp": "inj",
       "chainType": 1,
-      "multicall": "https://lcd-injective.keplr.app",
+      "multicall": "https://injective-rpc.lavenderfive.com",
       "priceId": "injective-protocol",
       "features": [
         "ibc-transfer",
@@ -586,14 +599,16 @@
       "coinType": 459,
       "explorer": "https://www.mintscan.io/kava",
       "rpcUrls": [
-        "https://rpc-kava.keplr.app"
+        "https://grpc.data.kava.io",
+        "https://grpc-kava-ia.cosmosia.notional.ventures:443",
+        "http://kava-grpc.polkachu.com:13990"
       ],
       "encoders": [
         1
       ],
       "hrp": "kava",
       "chainType": 1,
-      "multicall": "https://lcd-kava.keplr.app",
+      "multicall": "https://kava-rpc.polkachu.com",
       "priceId": "kava"
     },
     {
@@ -605,14 +620,15 @@
       "coinType": 118,
       "explorer": "https://www.mintscan.io/quicksilver",
       "rpcUrls": [
-        "https://rpc-quicksilver.keplr.app"
+        "https://grpc-quicksilver-ia.cosmosia.notional.ventures:443",
+        "https://quicksilver-grpc.lavenderfive.com:443"
       ],
       "encoders": [
         1
       ],
       "hrp": "quick",
       "chainType": 1,
-      "multicall": "https://lcd-quicksilver.keplr.app",
+      "multicall": "https://rpc.quicksilver.zone",
       "features": []
     }
   ],
