@@ -21,7 +21,7 @@
       "priceId": "ethereum"
     },
     {
-      "name": "Binance",
+      "name": "Binance Smart Chain",
       "symbol": "BNB",
       "logoURI": "https://assets.aufwallet.com/chains/56/info/logo.png",
       "chainId": "56",
@@ -77,7 +77,7 @@
       "priceId": "fantom"
     },
     {
-      "name": "Avalanche",
+      "name": "Avalanche C-Chain",
       "symbol": "AVAX",
       "logoURI": "https://assets.aufwallet.com/chains/43114/info/logo.png",
       "chainId": "43114",
@@ -94,7 +94,7 @@
     },
   
     {
-      "name": "Arbitrum",
+      "name": "Arbitrum One",
       "symbol": "ETH",
       "logoURI": "https://assets.aufwallet.com/chains/42161/info/logo.png",
       "chainId": "42161",

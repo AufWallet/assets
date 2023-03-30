@@ -11,5 +11,14 @@
         "aufwallet",
         "cosmos"
     ],
-    "tokens": []
+    "tokens": [
+        {
+            "name": "Inter Stable Token",
+            "symbol": "IST",
+            "chainId": "agoric-3",
+            "address": "IST",
+            "logoURI": "https://assets.aufwallet.com/chains/agoric-3/assets/IST.png",
+            "decimals": 6
+        }
+    ]
 }
