@@ -1,0 +1,30 @@
+{
+    "name": "AufWallet polkadot chain list",
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "timestamp": "2023-10-26T15:16:34.634Z",
+    "data": [
+      {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "decimals": 10,
+        "logoURI": "https://assets.aufwallet.com/chains/polkadot/info/logo.png",
+        "chainId": "polkadot",
+        "coinType": 354,
+        "explorer": "https://explorer.polkascan.io/polkadot",
+        "rpcUrls": [
+          "https://rpc.polkadot.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "polkadot",
+        "version": 0
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
