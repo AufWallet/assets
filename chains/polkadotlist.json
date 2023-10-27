@@ -19,7 +19,178 @@
         ],
         "chainType": 8,
         "priceId": "polkadot",
-        "version": 0
+        "version": 0,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Kusama",
+        "symbol": "KSM",
+        "decimals": 12,
+        "logoURI": "https://assets.aufwallet.com/chains/kusama/info/logo.png",
+        "chainId": "kusama",
+        "coinType": 434,
+        "explorer": "https://explorer.polkascan.io/kusama",
+        "rpcUrls": [
+          "https://rpc.kusama.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "kusama",
+        "version": 2,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Astar",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "logoURI": "https://assets.aufwallet.com/chains/astar/info/logo.png",
+        "chainId": "astar",
+        "coinType": 810,
+        "explorer": "https://explorer.polkascan.io/astar",
+        "rpcUrls": [
+          "https://rpc.astar.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "astar",
+        "version": 5,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Bifrost",
+        "symbol": "BNC",
+        "decimals": 12,
+        "logoURI": "https://assets.aufwallet.com/chains/bifrost/info/logo.png",
+        "chainId": "bifrost",
+        "coinType": 788,
+        "explorer": "https://explorer.polkascan.io/bifrost",
+        "rpcUrls": [
+          "https://rpc.bifrost.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "bifrost",
+        "version": 6,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Edgeware",
+        "symbol": "EDG",
+        "decimals": 18,
+        "logoURI": "https://assets.aufwallet.com/chains/edgeware/info/logo.png",
+        "chainId": "edgeware",
+        "coinType": 788,
+        "explorer": "https://explorer.polkascan.io/edgeware",
+        "rpcUrls": [
+          "https://rpc.edgeware.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "edgeware",
+        "version": 7,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Karura",
+        "symbol": "KAR",
+        "decimals": 12,
+        "logoURI": "https://assets.aufwallet.com/chains/karura/info/logo.png",
+        "chainId": "karura",
+        "coinType": 686,
+        "explorer": "https://explorer.polkascan.io/karura",
+        "rpcUrls": [
+          "https://rpc.karura.io"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "karura",
+        "version": 8,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Acala",
+        "symbol": "ACA",
+        "decimals": 12,
+        "logoURI": "https://assets.aufwallet.com/chains/acala/info/logo.png",
+        "chainId": "acala",
+        "coinType": 787,
+        "explorer": "https://explorer.polkascan.io/acala",
+        "rpcUrls": [
+          "https://rpc.acala.laminar.codes"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "acala",
+        "version": 10,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Integritee",
+        "symbol": "TEER",
+        "decimals": 12,
+        "logoURI": "https://assets.aufwallet.com/chains/integritee/info/logo.png",
+        "chainId": "integritee",
+        "coinType": 354,
+        "explorer": "https://explorer.polkascan.io/integritee",
+        "rpcUrls": [
+          "https://rpc.integritee.network"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "integritee",
+        "version": 13,
+        "features": [
+            "*25519"
+        ]
+      },
+      {
+        "name": "Totem",
+        "symbol": "TOTEM",
+        "decimals": 0,
+        "logoURI": "https://assets.aufwallet.com/chains/totem/info/logo.png",
+        "chainId": "totem",
+        "coinType": 354,
+        "explorer": "https://explorer.polkascan.io/totem",
+        "rpcUrls": [
+          "https://rpc.totem.live"
+        ],
+        "encoders": [
+          5
+        ],
+        "chainType": 8,
+        "priceId": "totem",
+        "version": 14,
+        "features": [
+            "*25519"
+        ]
       }
     ],
     "version": {
