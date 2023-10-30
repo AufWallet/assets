@@ -1,7 +1,7 @@
 {
   "name": "AufWallet chain list",
   "logoURI": "https://assets.aufwallet.com/logo.png",
-  "timestamp": "2023-10-26T01:09:03.623Z",
+  "timestamp": "2023-10-30T06:56:12.315Z",
   "data": [
     {
       "name": "Ethereum",
@@ -203,6 +203,21 @@
       "priceId": "avalanche-2"
     },
     {
+      "name": "Ethereum Classic",
+      "symbol": "ETC",
+      "logoURI": "https://assets.aufwallet.com/chains/61/info/logo.png",
+      "chainId": "61",
+      "explorer": "https://blockscout.com/etc/mainnet",
+      "rpcUrls": [
+        "https://etc.mytokenpocket.vip",
+        "https://etc.rivet.link"
+      ],
+      "encoders": [0],
+      "chainType": 0,
+      "multicall": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
+      "priceId": "ethereum-classic"
+    },
+    {
       "name": "Heco",
       "symbol": "HT",
       "logoURI": "https://assets.aufwallet.com/chains/128/info/logo.png",
@@ -235,6 +250,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

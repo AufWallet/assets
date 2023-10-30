@@ -1,7 +1,7 @@
 {
     "name": "AufWallet polkadot chain list",
     "logoURI": "https://assets.aufwallet.com/logo.png",
-    "timestamp": "2023-10-26T15:16:34.634Z",
+    "timestamp": "2023-10-30T06:58:13.018Z",
     "data": [
       {
         "name": "Polkadot",
@@ -21,7 +21,7 @@
         "priceId": "polkadot",
         "version": 0,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -42,7 +42,7 @@
         "priceId": "kusama",
         "version": 2,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -63,7 +63,7 @@
         "priceId": "astar",
         "version": 5,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -84,7 +84,7 @@
         "priceId": "bifrost",
         "version": 6,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -105,7 +105,7 @@
         "priceId": "edgeware",
         "version": 7,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -126,7 +126,7 @@
         "priceId": "karura",
         "version": 8,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -147,7 +147,7 @@
         "priceId": "acala",
         "version": 10,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -168,7 +168,7 @@
         "priceId": "integritee",
         "version": 13,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       },
       {
@@ -189,13 +189,13 @@
         "priceId": "totem",
         "version": 14,
         "features": [
-            "*25519"
+            "ed25519"
         ]
       }
     ],
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 2
     }
   }
