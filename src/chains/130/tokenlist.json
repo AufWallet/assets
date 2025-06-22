@@ -1,0 +1,16 @@
+{
+    "name": "AufWallet tokens for Unichain",
+    "timestamp": "2025-06-20T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://assets.aufwallet.com/logo.png",
+    "keywords": [
+        "aufwallet",
+        "defi"
+    ],
+    "tokens": [
+    ]
+}
