@@ -59,7 +59,9 @@
       "chainId": "10",
       "explorer": "https://optimistic.etherscan.io",
       "rpcUrls": [
-        "https://mainnet.optimism.io"
+        "https://mainnet.optimism.io",
+        "https://optimism.drpc.org",
+        "https://1rpc.io/op"
       ],
       "encoders": [0],
       "chainType": 0,
