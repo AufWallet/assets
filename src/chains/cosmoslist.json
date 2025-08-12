@@ -19,9 +19,8 @@
         "https://cosmoshub.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
-        1
+        "cosmos"
       ],
-      "hrp": "cosmos",
       "chainType": 1,
       "multicall": "https://rpc.cosmoshub.strange.love",
       "priceId": "cosmos",
@@ -45,9 +44,8 @@
         "https://osmosis.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
-        1
+        "cosmos:osmo"
       ],
-      "hrp": "osmo",
       "chainType": 1,
       "multicall": "https://rpc.osmosis.goldenratiostaking.net",
       "priceId": "osmosis",
@@ -71,9 +69,8 @@
         "https://secret-grpc.lavenderfive.com:443"
       ],
       "encoders": [
-        1
+        "cosmos:secret"
       ],
-      "hrp": "secret",
       "chainType": 1,
       "multicall": "https://rpc-secret.whispernode.com",
       "priceId": "secret",
@@ -98,9 +95,8 @@
         "https://akash.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
-        1
+        "cosmos:akash"
       ],
-      "hrp": "akash",
       "chainType": 1,
       "multicall": "https://akash-rpc.polkachu.com",
       "priceId": "akash-network",
@@ -120,9 +116,8 @@
         "https://grpc-cryptoorgchain-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:cro"
       ],
-      "hrp": "cro",
       "chainType": 1,
       "multicall": "https://rpc.cronos.org",
       "priceId": "crypto-com-chain",
@@ -142,9 +137,8 @@
         "https://grpc-starname-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:star"
       ],
-      "hrp": "star",
       "chainType": 1,
       "multicall": "https://rpc-starname-ia.cosmosia.notional.ventures",
       "priceId": "starname",
@@ -165,9 +159,8 @@
         "http://sifchain-grpc.polkachu.com:13290"
       ],
       "encoders": [
-        1
+        "cosmos:sif"
       ],
-      "hrp": "sif",
       "chainType": 1,
       "multicall": "https://sifchain-rpc.polkachu.com",
       "priceId": "sifchain",
@@ -185,9 +178,8 @@
         "http://certik-grpc.polkachu.com:14090"
       ],
       "encoders": [
-        1
+        "cosmos:certik"
       ],
-      "hrp": "certik",
       "chainType": 1,
       "multicall": "https://certik-rpc.polkachu.com",
       "priceId": "certik",
@@ -208,9 +200,8 @@
         "https://grpc-irisnet-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:iaa"
       ],
-      "hrp": "iaa",
       "chainType": 1,
       "multicall": "https://rpc-irisnet-ia.cosmosia.notional.ventures",
       "priceId": "iris-network",
@@ -232,9 +223,8 @@
         "https://grpc-regen-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:regen"
       ],
-      "hrp": "regen",
       "chainType": 1,
       "multicall": "http://public-rpc.regen.vitwit.com:26657",
       "priceId": "regen",
@@ -256,9 +246,8 @@
         "https://grpc-persistent-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:persistence"
       ],
-      "hrp": "persistence",
       "chainType": 1,
       "multicall": "https://rpc.core.persistence.one",
       "priceId": "persistence",
@@ -279,9 +268,8 @@
         "https://grpc-sentinel-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:sent"
       ],
-      "hrp": "sent",
       "chainType": 1,
       "multicall": "https://rpc-sentinel.whispernode.com",
       "priceId": "sentinel",
@@ -302,9 +290,8 @@
         "https://impacthub-grpc.lavenderfive.com:443"
       ],
       "encoders": [
-        1
+        "cosmos:ixo"
       ],
-      "hrp": "ixo",
       "chainType": 1,
       "multicall": "https://impacthub.ixo.world/rpc",
       "features": [
@@ -323,9 +310,8 @@
         "https://grpc-emoney-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "comos:emoney"
       ],
-      "hrp": "emoney",
       "chainType": 1,
       "multicall": "https://emoney.validator.network",
       "priceId": "e-money",
@@ -345,9 +331,8 @@
         "https://grpc.agoric.nodestake.top"
       ],
       "encoders": [
-        1
+        "cosmos:agoric"
       ],
-      "hrp": "agoric",
       "chainType": 1,
       "multicall": "https://agoric-mainnet-archive-germany.allthatnode.com",
       "priceId": "agoric",
@@ -373,9 +358,8 @@
         "http://juno.grpc.stakeandrelax.net:12690"
       ],
       "encoders": [
-        1
+        "cosmos:juno"
       ],
-      "hrp": "juno",
       "chainType": 1,
       "multicall": "https://rpc-juno.goldenratiostaking.net",
       "priceId": "juno-network",
@@ -399,9 +383,8 @@
         "http://stargaze-grpc.polkachu.com:13790"
       ],
       "encoders": [
-        1
+        "cosmos:stars"
       ],
-      "hrp": "stars",
       "chainType": 1,
       "multicall": "https://stargaze-rpc.polkachu.com",
       "priceId": "stargaze",
@@ -427,9 +410,8 @@
         "https://axelar.grpc.stakin-nodes.com:443"
       ],
       "encoders": [
-        1
+        "cosmos:axelar"
       ],
-      "hrp": "axelar",
       "chainType": 1,
       "multicall": "https://rpc-axelar.whispernode.com",
       "priceId": "axelar",
@@ -452,9 +434,8 @@
         "https://sommelier-grpc.lavenderfive.com"
       ],
       "encoders": [
-        1
+        "cosmos:somm"
       ],
-      "hrp": "somm",
       "chainType": 1,
       "multicall": "https://sommelier-rpc.polkachu.com",
       "priceId": "sommelier",
@@ -475,9 +456,8 @@
         "https://grpc-umee-ia.cosmosia.notional.ventures:443"
       ],
       "encoders": [
-        1
+        "cosmos:umee"
       ],
-      "hrp": "umee",
       "chainType": 1,
       "multicall": "https://umee-rpc.polkachu.com",
       "features": [
@@ -500,9 +480,8 @@
         "https://gravitybridge-grpc.lavenderfive.com"
       ],
       "encoders": [
-        1
+        "cosmos:gravity"
       ],
-      "hrp": "gravity",
       "chainType": 1,
       "multicall": "https://gravitychain.io:26657",
       "features": [
@@ -523,9 +502,8 @@
         "https://stride.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
-        1
+        "cosmos:stride"
       ],
-      "hrp": "stride",
       "chainType": 1,
       "multicall": "https://stride.rpc.chandrastation.com",
       "priceId": "stride",
@@ -549,9 +527,8 @@
         "https://evmos.grpc.interchain.ivaldilabs.xyz:443"
       ],
       "encoders": [
-        1
+        "cosmos:evmos"
       ],
-      "hrp": "evmos",
       "chainType": 1,
       "multicall": "https://rpc-evmos.goldenratiostaking.net",
       "priceId": "evmos",
@@ -577,9 +554,8 @@
         "http://injective-grpc.polkachu.com:14390"
       ],
       "encoders": [
-        1
+        "cosmos:inj"
       ],
-      "hrp": "inj",
       "chainType": 1,
       "multicall": "https://injective-rpc.lavenderfive.com",
       "priceId": "injective-protocol",
@@ -604,9 +580,8 @@
         "http://kava-grpc.polkachu.com:13990"
       ],
       "encoders": [
-        1
+        "cosmos:kava"
       ],
-      "hrp": "kava",
       "chainType": 1,
       "multicall": "https://kava-rpc.polkachu.com",
       "priceId": "kava"
@@ -624,9 +599,8 @@
         "https://quicksilver-grpc.lavenderfive.com:443"
       ],
       "encoders": [
-        1
+        "cosmos:quick"
       ],
-      "hrp": "quick",
       "chainType": 1,
       "multicall": "https://rpc.quicksilver.zone",
       "features": []
@@ -634,7 +608,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

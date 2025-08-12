@@ -15,11 +15,10 @@
           "https://rpc.polkadot.io"
         ],
         "encoders": [
-          5
+          "ss58:0"
         ],
         "chainType": 2,
         "priceId": "polkadot",
-        "version": 0,
         "features": [
             "ed25519"
         ]
@@ -36,11 +35,10 @@
           "https://rpc.kusama.io"
         ],
         "encoders": [
-          5
+          "ss58:2"
         ],
         "chainType": 2,
         "priceId": "kusama",
-        "version": 2,
         "features": [
             "ed25519"
         ]
@@ -57,11 +55,10 @@
           "https://rpc.astar.io"
         ],
         "encoders": [
-          5
+          "ss58:5"
         ],
         "chainType": 2,
         "priceId": "astar",
-        "version": 5,
         "features": [
             "ed25519"
         ]
@@ -78,11 +75,10 @@
           "https://rpc.bifrost.io"
         ],
         "encoders": [
-          5
+          "ss58:6"
         ],
         "chainType": 2,
         "priceId": "bifrost",
-        "version": 6,
         "features": [
             "ed25519"
         ]
@@ -99,11 +95,10 @@
           "https://rpc.edgeware.io"
         ],
         "encoders": [
-          5
+          "ss58:7"
         ],
         "chainType": 2,
         "priceId": "edgeware",
-        "version": 7,
         "features": [
             "ed25519"
         ]
@@ -120,11 +115,10 @@
           "https://rpc.karura.io"
         ],
         "encoders": [
-          5
+          "ss58:8"
         ],
         "chainType": 2,
         "priceId": "karura",
-        "version": 8,
         "features": [
             "ed25519"
         ]
@@ -141,11 +135,10 @@
           "https://rpc.acala.laminar.codes"
         ],
         "encoders": [
-          5
+          "ss58:10"
         ],
         "chainType": 2,
         "priceId": "acala",
-        "version": 10,
         "features": [
             "ed25519"
         ]
@@ -162,11 +155,10 @@
           "https://rpc.integritee.network"
         ],
         "encoders": [
-          5
+          "ss58:13"
         ],
         "chainType": 2,
         "priceId": "integritee",
-        "version": 13,
         "features": [
             "ed25519"
         ]
@@ -183,11 +175,10 @@
           "https://rpc.totem.live"
         ],
         "encoders": [
-          5
+          "ss58:14"
         ],
         "chainType": 2,
         "priceId": "totem",
-        "version": 14,
         "features": [
             "ed25519"
         ]
@@ -195,7 +186,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 0,
-      "patch": 2
+      "minor": 1,
+      "patch": 0
     }
   }
